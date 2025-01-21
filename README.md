@@ -8,10 +8,11 @@ Gene expression and proteomics are commonly used to get an understanding of the 
 Interpretation of the results of these assays is difficult, and often simplistic.
 
 Our understanding of the functions of genes is limited, there is a large portion of the genomes (~40% in cyanobacteria) whose function has not yet been characterized, and therefore their function is unknown and their impact on physiology not known.
+
 For genes with well identified finction, the gene may be part of multiple pipelines, making difficult to pin point the pathway impacted. 
 Gene regulation is complex, some genes may promote or inhibit other genes, rrna transcript may or may not be translated into proteins, and indeed, there is low correlation between the Proteome and transcriptome.
-
 Often the assays report mixed results for a given pathway, with some genes upregulated and others downregulated.
+
 Finally, even when the physiological effect is clear, interpretation may be challenging. For example, if bacteria under nitrogen stress increases expression of urea uptake pathways, does that mean that it is switching to utilizing urea, or does it mean that it is so nitrogen starved that it activates nitrogen uptake mechanisms in a desparate attempt to uptake any possible compound even if it is not there.
 
 Some of the challenges in interpreting gene expression assays include:
@@ -39,13 +40,13 @@ In addition, we are imploying genome scale models (flux based analysis - FBA) to
 
 The goal of this study is to use AI to answer the following questions:
 1. What is known about each gene and pathway with a focus on differentially expressed genes/pathways.
-   1.a. Does this gene have a possible role in nutrient exchange?
-   1.b. Does this gene have a possible role in microbial interaction?
-   1.c. Does this gene have a possible role in stress response?
+   1a. Does this gene have a possible role in nutrient exchange?
+   1b. Does this gene have a possible role in microbial interaction?
+   1c. Does this gene have a possible role in stress response?
 
 2. What is the meaning of the observed expression patterns?
-   2.a. Can we deduce physiological state?
-   2.b. Can we identify putative nutrient exchanges?
+   2a. Can we deduce physiological state?
+   2b. Can we identify putative nutrient exchanges?
    
 3. Critical analysis: what are the weak points in the analysis, what needs to be addressed. Are there additional assays/experiments that we can run to address these.
 

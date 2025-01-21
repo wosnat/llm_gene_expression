@@ -40,22 +40,21 @@ In addition, we are imploying genome scale models (flux based analysis - FBA) to
 
 The goal of this study is to use AI to answer the following questions:
 1. What is known about each gene and pathway with a focus on differentially expressed genes/pathways.
-   1a. Does this gene have a possible role in nutrient exchange?
-   1b. Does this gene have a possible role in microbial interaction?
-   1c. Does this gene have a possible role in stress response?
+   - Does this gene have a possible role in nutrient exchange?
+   - Does this gene have a possible role in microbial interaction?
+   - Does this gene have a possible role in stress response?
 
 2. What is the meaning of the observed expression patterns?
-   2a. Can we deduce physiological state?
-   2b. Can we identify putative nutrient exchanges?
+   - Can we deduce physiological state?
+   - Can we identify putative nutrient exchanges?
    
 3. Critical analysis: what are the weak points in the analysis, what needs to be addressed. Are there additional assays/experiments that we can run to address these.
 
 
    
    
-# previous text
+# Previous text to be changed
 
-LLM and 
 This is a project of writing a scientific review paper through LLM.
 There are multiple versions, each using a more sophisticated approach.
 

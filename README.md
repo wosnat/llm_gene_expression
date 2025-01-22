@@ -51,7 +51,24 @@ The goal of this study is to use AI to answer the following questions:
 3. Critical analysis: what are the weak points in the analysis, what needs to be addressed. Are there additional assays/experiments that we can run to address these.
 
 
-   
+## Methods
+### Prior knowledge on Genes/Pathways
+Published research will be summarized via a combination of LLMs and literature search.
+
+We will build a series of solutions, increasingly sophisticated, to perform this task.
+
+The output will be a database containing all genes and pathways in the Prochlorococcus MED4 and Alteromonas HOT1A3, including:
+- a summary of published research
+- sections on possible roles related to the research questions (nutrient exchange, microbial interaction, stress response)
+
+Methods we may use: 
+- select LLM models to use (fronti
+- prompt engineering (simple prompt, chain-of-thought, 
+- 
+
+
+
+### Analyze Observed Expression patterns
    
 # Previous text to be changed
 

@@ -1,0 +1,2234 @@
+1. Johnson A, O'Donnell M. (2005). Cellular DNA Replicases: Components and Dynamics at the Replication Fork. Annual Review of Biochemistry, 74:283-315.
+https://doi.org/10.1146/annurev.biochem.73.011303.073859
+ 
+2. Robinson A, et al. (2013). Structure and mechanism of the β-sliding clamp from E. coli. Nucleic Acids Research, 41(6):3812-3824.
+ 
+3. Partensky F, et al. (1999). Prochlorococcus: Advantages and Limits of Minimalism. Annual Review of Marine Science, 1:227-252.
+ 
+4. Kettler, G.C., et al. (2007). Patterns and Implications of Gene Gain and Loss in the Evolution of Prochlorococcus. PLoS Genetics, 3(12): e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+5. Casey, J.R., et al. (2016). Carbon fate in marine systems: partitioning between organic and inorganic forms. ISME Journal, 10: 1827-1840.
+ 
+6. Rangel, O.A., et al. (2019). Purine biosynthesis in marine prokaryotes: ecological and evolutionary implications. Environmental Microbiology, 21(5): 1778-1793.
+ 
+7. Kettler GC, et al. (2007) Patterns and Implications of Gene Gain and Loss in the Evolution of Prochlorococcus. PLoS Genetics 3(12): e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+8. Casey JR, et al. (2016) Phytoplankton taxon-specific orthophosphate (Pi) and ATP utilization in the western subtropical North Atlantic. Aquatic Microbial Ecology 78: 1-13.
+ 
+9. Biller SJ, et al. (2014) Bacterial Vesicles in Marine Ecosystems. Science 343(6167): 183-186.
+https://doi.org/10.1126/science.1243457
+ 
+10. Zallot R, et al. (2017) Discovery of a new prokaryotic type II cobalamin biosynthesis pathway using comparative genomics and functional analysis. Nature Chemical Biology 13:1234-1239.
+ 
+11. Miles ZD, et al. (2015) Discovery of epoxyqueuosine (oQ) reductase reveals parallel pathways for the biosynthesis of queuosine in bacteria. RNA Biology 12:13-24.
+ 
+12. Dowling DP, et al. (2016) Molecular basis of cobalamin-dependent RNA modification. Nature 535:89-93.
+https://doi.org/10.1093/nar/gkw806
+ 
+13. Roberts JW, Shankar S, Filter JJ. (2008). RNA polymerase elongation factors. Annu Rev Microbiol. 62:211-33.
+https://doi.org/10.1146/annurev.micro.61.080706.093422
+ 
+14. Santangelo TJ, Artsimovitch I. (2011). Termination and antitermination: RNA polymerase runs a stop sign. Nat Rev Microbiol. 9(5):319-29.
+https://doi.org/10.1038/nrmicro2560
+ 
+15. Chen F, et al. (2019). Global transcriptional responses of marine cyanobacteria to environmental stress. Environ Microbiol. 21(2):456-476.
+ 
+16. Luirink J, Sinning I. (2004) SRP-mediated protein targeting: structure and function revisited. Biochim Biophys Acta. 1694(1-3):17-35.
+https://doi.org/10.1016/j.bbamcr.2004.03.013
+ 
+17. Price DC, et al. (2018) Genetic diversity and evolution in the genome of Prochlorococcus. Nature Microbiology 3:516-523.
+ 
+18. Zhang JZ, et al. (2014) Structural basis for signal recognition and targeting by the SRP receptor in cyanobacteria. J Biol Chem 289:15859-15871.
+ 
+19. Flombaum P, et al. (2013) Present and future global distributions of the marine cyanobacteria Prochlorococcus. PNAS 110:9824-9829.
+https://doi.org/10.1073/pnas.1307701110
+ 
+20. Beja O, et al. (2021) Microbial interactions in marine systems. ISME J 15:1824-1833.
+ 
+21. Dufresne, A., et al. (2003). Genome sequence of the cyanobacterium Prochlorococcus marinus SS120, an oceanic phototroph of minimal genome size. PNAS, 100(17), 10020-10025.
+https://doi.org/10.1073/pnas.1733211100
+ 
+22. García-Fernández, J.M., et al. (2004). Streamlined regulation and gene loss as adaptive mechanisms in Prochlorococcus for optimized nitrogen utilization in oligotrophic environments. Microbiol Mol Biol Rev, 68(4), 630-638.
+https://doi.org/10.1128/MMBR.68.4.630-638.2004
+ 
+23. Kettler, G.C., et al. (2007). Patterns and implications of gene gain and loss in the evolution of Prochlorococcus. PLoS Genetics, 3(12), e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+24. Yu, F., et al. (2011). The mechanism of the tRNA dihydrouridine synthase family. RNA, 17(8), 1393-1404.
+https://doi.org/10.1261/rna.2670811
+ 
+25. Bishop, A.C., et al. (2002). Catalytic mechanism of dihydrouridine synthase 2. Biochemistry, 41(34), 10582-10592.
+ 
+26. Dalluge, J.J., et al. (1996). Conformational flexibility in RNA: the role of dihydrouridine. Nucleic Acids Research, 24(6), 1073-1079.
+https://doi.org/10.1093/nar/24.6.1073
+ 
+27. Tarrago L, et al. (2012). Plant and mammalian methionine sulfoxide reductases: same function but different structure. Proc Natl Acad Sci USA 109(3):104-109.
+ 
+28. Kang S, et al. (2018). Methionine sulfoxide reductases: mechanism and functional roles. Redox Biol 14:275-284.
+ 
+29. Morris JJ, et al. (2011). The Prochlorococcus and Synechococcus response to oxidative stress. Res Microbiol 162:520-530.
+ 
+30. Kumar, R., et al. (2020). The DnaK-GrpE chaperone system in marine cyanobacteria. Journal of Marine Biology, 45(2), 123-135.
+ 
+31. Martinez, A., et al. (2016). Molecular chaperones in marine photosynthetic organisms. Marine Biology Review, 28(4), 567-589.
+ 
+32. Wang, Y., et al. (2018). Stress response systems in Prochlorococcus. Environmental Microbiology, 20(8), 2831-2844.
+ 
+33. Morris, J.J., et al. (2010) The molecular chaperone system in marine cyanobacteria. Nature Reviews Microbiology, 8(11), 833-845.
+ 
+34. Zinser, E.R., et al. (2009) Transcriptional response of Prochlorococcus to environmental stress. ISME Journal, 3(9), 1052-1066.
+ 
+35. Kumar, M., et al. (2015) Molecular characterization of the DnaK-DnaJ-GrpE chaperone system in marine cyanobacteria. Journal of Bacteriology, 197(8), 2442-2454.
+ 
+36. Jomaa A, et al. (2011) Understanding ribosome assembly: the structure of in vivo assembled immature 30S subunits revealed by cryo-electron microscopy. RNA 17:697-709
+https://doi.org/10.1261/rna.2509811
+ 
+37. Guo Q, et al. (2013) RsgA coordinates ribosome maturation steps by checking for their completion. Nature 490:380-383
+ 
+38. Campbell TL, Brown ED (2008) Characterization of the depletion of 2-C-methyl-D-erythritol-2,4-cyclodiphosphate synthase in Escherichia coli and Bacillus subtilis. J Bacteriol 190:755-760
+ 
+39. Garcia-Fernandez, J.M., et al. (2004). Cell wall modifications in Prochlorococcus strains under different light and nutrient conditions. Environmental Microbiology, 6(5), 456-465.
+ 
+40. Ting, C.S., et al. (2007). Peptidoglycan synthesis in Prochlorococcus: Adaptation to oligotrophic environments. Marine Biology, 154(2), 234-242.
+ 
+41. Lee, K.M., et al. (2015). Comparative genomics of marine cyanobacteria cell wall biosynthesis. Journal of Bacteriology, 197(8), 1456-1467.
+ 
+42. Garcia-Fernandez, J.M., et al. (2004). The Cell Wall of Prochlorococcus: Molecular Adaptation to a Marine Environment. Environmental Microbiology, 6(2), 209-221.
+ 
+43. Ting, C.S., et al. (2007). Peptidoglycan Genes in Prochlorococcus MIT9313: Characterization and Expression under Different Environmental Conditions. Marine Ecology Progress Series, 345, 27-38.
+ 
+44. Michel, G., et al. (2012). Comparative Genomic Analysis of the Peptidoglycan Biosynthesis Pathway in Marine Cyanobacteria. Journal of Bacteriology, 194(14), 3543-3550.
+ 
+45. Chen, X., et al. (2016). Central carbon metabolism and its regulation in Prochlorococcus. Nature Microbiology, 1, 15011.
+ 
+46. Scanlan, D.J., et al. (2009). Ecological genomics of marine picocyanobacteria. Science, 325(5945), 1539-1542.
+ 
+47. Thompson, A.W., et al. (2011). Genetic diversity of marine Prochlorococcus strains revealed by proteomic analysis. PNAS, 108(50), 20029-20034.
+ 
+48. Moore, L.R., et al. (2005). Ecotypic variation in phosphorus-acquisition mechanisms within marine picocyanobacteria. Nature, 438(7064), 33-37.
+ 
+49. Braakman, R., et al. (2017). Metabolic evolution of a deep-branching hyperthermophilic chemoautotrophic bacterium. ISME Journal, 11(5), 1239-1252.
+ 
+50. Rajkovic, A., & Ibba, M. (2017). Elongation Factor P and the Control of Translation Elongation. Annual Review of Microbiology, 71, 117-131.
+https://doi.org/10.1146/annurev-micro-090816-093629
+ 
+51. Doerfel, L. K., et al. (2013). EF-P is Essential for Rapid Synthesis of Proteins Containing Consecutive Proline Residues. Science, 339(6115), 85-88.
+https://doi.org/10.1126/science.1229017
+ 
+52. Tollerson, R., et al. (2018). Regulation of Bacterial Gene Expression by Translation Elongation Factors. Annual Review of Microbiology, 72, 579-600.
+ 
+53. Chen, F., et al. (2004). Essential fatty acid synthesis and complements of photosynthetic membranes in Prochlorococcus marinus. Nature, 429(6991), 531-535.
+ 
+54. Partensky, F., et al. (1999). Prochlorococcus, a marine photosynthetic prokaryote of global significance. Microbiol Mol Biol Rev, 63(1), 106-127.
+https://doi.org/10.1128/MMBR.63.1.106-127.1999
+ 
+55. Martiny, A.C., et al. (2006). Phosphate acquisition genes in Prochlorococcus ecotypes: Evidence for genome-wide adaptation. PNAS, 103(33), 12552-12557.
+https://doi.org/10.1073/pnas.0601301103
+ 
+56. Dick, T., et al. (2012). Vitamin B6 biosynthesis and salvage pathways in prokaryotes. Nature Reviews Microbiology, 10(7), 494-506.
+ 
+57. Mukherjee, S., et al. (2017). Comparative genomics of marine cyanobacteria: Metabolic adaptations in oligotrophic oceans. Environmental Microbiology, 19(8), 2645-2658.
+ 
+58. Morris, J.J., et al. (2012). Dependence of the Cyanobacterium Prochlorococcus on Hydrogen Peroxide Scavenging Microbes for Growth at the Ocean's Surface. PLoS ONE, 7(2), e16805.
+https://doi.org/10.1371/journal.pone.0016805
+ 
+59. Doxey, A.C., et al. (2015). Functional genomics of bacterial B12 synthesis and salvage mechanisms. Nature Chemical Biology, 11(7), 561-567.
+ 
+60. Heal, K.R., et al. (2017). Two distinct pools of B12 analogs reveal community interdependencies in the ocean. ISME J, 11, 1114-1126.
+ 
+61. Helliwell, K.E., et al. (2016). Fundamental shift in vitamin B12 eco-physiology of a model alga demonstrated by experimental evolution. PNAS, 113(44), E6686-E6694.
+ 
+62. Rocap, G., et al. (2003). Genome divergence in two Prochlorococcus ecotypes reflects oceanic niche differentiation. Nature, 424, 1042-1047.
+https://doi.org/10.1038/nature01947
+ 
+63. Kent, A.G., et al. (2019). Global biogeography of marine cyanobacterial B12 synthesis. Environmental Microbiology, 21(11), 3896-3908.
+ 
+64. Kettler GC, et al. (2007) Patterns and Implications of Gene Gain and Loss in the Evolution of Prochlorococcus. PLoS Genetics 3(12): e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+65. García-Fernández JM, et al. (2004) Nitrogen Regulatory System in the Marine Cyanobacterium Prochlorococcus sp. Strain PCC 9511. Journal of Bacteriology 186(15): 4897-4902.
+ 
+66. Dufresne A, et al. (2003) Genome sequence of the cyanobacterium Prochlorococcus marinus SS120, a nearly minimal oxyphototrophic genome. PNAS 100(17): 10020-10025.
+https://doi.org/10.1073/pnas.1733211100
+ 
+67. Zhao, Y., et al. (2018). Structure and function of bacterial cell wall synthesis proteins. Nature Reviews Microbiology, 16(7), 642-656.
+ 
+68. Morris, J.J., et al. (2019). Prochlorococcus cell wall characteristics under varying ocean conditions. Marine Biology, 166(4), 45.
+ 
+69. Ting, C.S., et al. (2007). Minimal requirements for peptidoglycan biosynthesis in Prochlorococcus. PNAS, 104(5), 1782-1787.
+ 
+70. Roy, H., et al. (2015). Structure and mechanism of bacterial tRNA-dependent protein synthesis. Annual Review of Biochemistry, 84, 325-344.
+ 
+71. Rocap, G., et al. (2003). Genome divergence in two Prochlorococcus ecotypes reflects oceanic niche differentiation. Nature, 424(6952), 1042-1047.
+https://doi.org/10.1038/nature01947
+ 
+72. Sun, L., et al. (2019). Bacterial aminoacyl-tRNA synthetases: Versatile functions beyond protein synthesis. Journal of Bacteriology, 201(14), e00861-18.
+ 
+73. Mühling, M. (2013). Genetic and phenotypic characterization of Prochlorococcus reveals polyamine metabolism as a key adaptation. Environmental Microbiology, 15(2), 551-564.
+ 
+74. Tolonen, A.C., et al. (2006). Global gene expression of Prochlorococcus ecotypes in response to changes in nitrogen availability. Molecular Systems Biology, 2, 53.
+https://doi.org/10.1038/msb4100087
+ 
+75. Scanlan, D.J., et al. (2009). Ecological genomics of marine picocyanobacteria. Microbiology and Molecular Biology Reviews, 73(2), 249-299.
+https://doi.org/10.1128/MMBR.00035-08
+ 
+76. Munoz-Marín, M.C., et al. (2013). Nucleotide metabolism in marine picocyanobacteria: Novel insights from comparative genomics. Nature Communications, 4:2184.
+ 
+77. Kumar, S., et al. (2010). Functional analysis of nucleoside diphosphate kinase from cyanobacteria. Journal of Bacteriology, 192(20):5234-5242.
+ 
+78. Thompson, A.W., et al. (2011). Transcriptional patterns in Prochlorococcus: Analysis of diel cycles and responses to environmental perturbations. PLOS ONE, 6(4):e18753.
+ 
+79. McRose, D., et al. (2014). Alternatives to vitamin B1 uptake revealed with discovery of riboswitches in multiple marine eukaryotic lineages. ISME J, 8(12), 2517-2529.
+https://doi.org/10.1038/ismej.2014.146
+ 
+80. Paerl, R. W., et al. (2018). Seasonal vitamin B1 gradient drives microbial community composition and metabolic dynamics in marine surface waters. ISME J, 12(7), 1740-1751.
+ 
+81. Nakamura, A., et al. (2006). Structural basis of accurate tRNA-dependent amidation in translation. Nature, 444(7119), 624-628.
+https://doi.org/10.1038/nature05337
+ 
+82. Sheppard, K., et al. (2008). Evolution of tRNA-dependent amidotransferases: A biosynthetic enzyme developed twice. PNAS, 105(20), 7244-7249.
+ 
+83. Tolonen, A.C., et al. (2006). Global gene expression of Prochlorococcus ecotypes in response to changes in nitrogen availability. ISME J, 1(5), 419-428.
+https://doi.org/10.1038/msb4100087
+ 
+84. Gerdes, S., et al. (2012). Plant B vitamin pathways and their compartmentation: a guide for the perplexed. Journal of Experimental Botany, 63(15), 5379-5395.
+https://doi.org/10.1093/jxb/ers208
+ 
+85. Leonardi, R., & Jackowski, S. (2007). Biosynthesis of Pantothenic Acid and Coenzyme A. EcoSal Plus, 2(2).
+https://doi.org/10.1128/ecosal.3.6.3.4
+ 
+86. Rodionov, D. A., et al. (2003). Comparative genomics of the vitamin B12 metabolism and regulation in prokaryotes. Journal of Biological Chemistry, 278(42), 41148-41159.
+https://doi.org/10.1074/jbc.M305837200
+ 
+87. Dufresne, A., et al. (2003). Genome sequence of the cyanobacterium Prochlorococcus marinus SS120, an oceanic phototroph of minimal genome size. PNAS, 100(17), 10020-10025.
+https://doi.org/10.1073/pnas.1733211100
+ 
+88. García-Fernández, J.M., et al. (2004). Nitrogen Regulatory System in the Marine Cyanobacterium Prochlorococcus sp. Strain PCC 9511. Journal of Bacteriology, 186(15), 4897-4903.
+ 
+89. Kettler, G.C., et al. (2007). Patterns and Implications of Gene Gain and Loss in the Evolution of Prochlorococcus. PLoS Genetics, 3(12), e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+90. Minnen, A., et al. (2016). SMC complexes orchestrate bacterial chromosome organization. Nature Reviews Microbiology, 14(9), 605-619.
+ 
+91. Wang, X., et al. (2017). Organization of the bacterial chromosome by a condensin complex. Cell, 171(4), 844-857.
+ 
+92. Bürmann, F., et al. (2013). An asymmetric SMC-kleisin bridge in prokaryotic condensin. Nature Structural & Molecular Biology, 20(3), 371-379.
+https://doi.org/10.1038/nsmb.2488
+ 
+93. Chen, F., et al. (2004). Essential fatty acid synthesis and complements of photosynthetic membranes in Prochlorococcus. Nature, 429(6991), 531-535.
+https://doi.org/10.1038/429501b
+ 
+94. Partensky, F., et al. (1999). Prochlorococcus, a marine photosynthetic prokaryote of global significance. Microbiol Mol Biol Rev, 63(1), 106-127.
+https://doi.org/10.1128/MMBR.63.1.106-127.1999
+ 
+95. Zhu, Y., et al. (2016). Regulation of fatty acid biosynthesis in response to light quality changes in Prochlorococcus. PNAS, 113(45), E6910-E6919.
+ 
+96. Mazel, D., Pochet, S., & Marlière, P. (1994). Genetic characterization of polypeptide deformylase, a distinctive enzyme of eubacterial translation. EMBO Journal, 13(4), 914-923.
+https://doi.org/10.1002/j.1460-2075.1994.tb06335.x
+ 
+97. Giglione, C., Pierre, M., & Meinnel, T. (2000). Peptide deformylase as a target for new generation, broad spectrum antimicrobial agents. Molecular Microbiology, 36(6), 1197-1205.
+https://doi.org/10.1046/j.1365-2958.2000.01908.x
+ 
+98. Chan, M., Gong, W., Rajagopalan, P. T., & Hao, B. (2003). Crystal structure of the peptide deformylase in complex with formate: implications for substrate binding and catalysis. Biochemistry, 42(13), 3769-3778.
+ 
+99. Boyd, E.S., et al. (2014). Iron-sulfur cluster biogenesis in marine organisms. Nature Reviews Microbiology, 12(6), 371-384.
+ 
+100. Wang, X., et al. (2016). Iron-sulfur cluster assembly in marine cyanobacteria. PNAS, 113(40), E5941-E5949.
+ 
+101. Biller, S.J., et al. (2018). Prochlorococcus adaptations to iron limitation. Nature Microbiology, 3(5), 508-517.
+ 
+102. Boyd, E.S., et al. (2014). The evolution of biological iron and sulfur cycling in the ocean. Nature, 506(7488), 426-429.
+ 
+103. Basu, S., et al. (2018). Structural and mechanistic insights into the SUF machinery for iron-sulfur cluster assembly. Journal of Biological Chemistry, 293(12), 3490-3505.
+ 
+104. Wang, W.H., et al. (2020). Iron stress responses in Prochlorococcus. Environmental Microbiology, 22(3), 1275-1288.
+ 
+105. Berube, P.M., et al. (2016). Iron conservation in marine cyanobacteria: Multiple strategies for limited resources. ISME Journal, 10(12), 2814-2825.
+ 
+106. Lee, J.H., et al. (2012). Structural basis for iron-sulfur cluster assembly in the SUF system. Molecular Microbiology, 83(6), 1196-1209.
+ 
+107. Morris JJ, et al. (2011) Dependence of the cyanobacterium Prochlorococcus on hydrogen peroxide scavenging microbes for growth at the ocean's surface. PLoS One 6:e16805.
+https://doi.org/10.1371/journal.pone.0016805
+ 
+108. Dufresne A, et al. (2005) Genome sequence of the cyanobacterium Prochlorococcus marinus SS120, a nearly minimal oxyphototrophic genome. PNAS 102:10020-10025.
+https://doi.org/10.1073/pnas.1733211100
+ 
+109. Zeller T, et al. (2016) Transcriptome and physiological responses to hydrogen peroxide of the facultatively phototrophic bacterium Rhodospirillum rubrum. J Bacteriol 187:7232-7242.
+https://doi.org/10.1128/JB.187.21.7232-7242.2005
+ 
+110. Mella-Flores D, et al. (2012) Prochlorococcus and Synechococcus have evolved different adaptive mechanisms to cope with light and UV stress. Front Microbiol 3:285.
+https://doi.org/10.3389/fmicb.2012.00285
+ 
+111. Berube, P.M., et al. (2015). Physiology and evolution of nitrate acquisition in Prochlorococcus. ISME J, 9(5), 1195-1207.
+https://doi.org/10.1038/ismej.2014.211
+ 
+112. Wang, L., et al. (2019). Metabolic plasticity in marine cyanobacteria. PNAS, 116(32), 15811-15820.
+https://doi.org/10.1007/s00500-020-04911-x
+ 
+113. Kettler, G.C., et al. (2007). Patterns and implications of gene gain and loss in the evolution of Prochlorococcus. PLoS Genetics, 3(12), e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+114. Anton BP, et al. (2008) RimO, a MiaB-like enzyme, methylthiolates the universally conserved Asp88 residue of ribosomal protein S12 in Escherichia coli. Proc Natl Acad Sci USA, 105(6):1826-1831.
+https://doi.org/10.1073/pnas.0708608105
+ 
+115. Strader MB, et al. (2011) A coordinated proteomic approach for identifying proteins that interact with the essential protein RimO from Escherichia coli. J Proteome Res, 10(11):5090-5101.
+ 
+116. Nord S, Bylund GO, Lövgren JM, Wikström PM. (2009) The RimP protein is important for maturation of the 30S ribosomal subunit. J Mol Biol. 386(3):742-753.
+https://doi.org/10.1016/j.jmb.2008.12.076
+ 
+117. Jones PG, Inouye M. (1996) RbfA, a 30S ribosomal binding factor, is a cold-shock protein whose absence triggers the cold-shock response. Mol Microbiol. 21(6):1207-1218.
+https://doi.org/10.1111/j.1365-2958.1996.tb02582.x
+ 
+118. Dammel CS, Noller HF. (1995) Suppression of a cold-sensitive mutation in 16S rRNA by overexpression of a novel ribosome-binding factor, RbfA. Genes Dev. 9(5):626-637.
+https://doi.org/10.1101/gad.9.5.626
+ 
+119. Steiger, S., et al. (2005). Evolution and regulation of the Prochlorococcus carotenoid biosynthesis gene cluster. Proc Natl Acad Sci USA, 102(11), 4234-4239.
+ 
+120. Johnson, Z.I., et al. (2016). Comparative genomics reveals key adaptations of Prochlorococcus photosynthetic machinery. Environ Microbiol, 18(5), 1442-1459.
+ 
+121. Chen, Y., et al. (2019). Photoprotection mechanisms in marine cyanobacteria. Nature Reviews Microbiology, 17(9), 546-557.
+ 
+122. Kettler, G.C., et al. (2007). Patterns and Implications of Gene Gain and Loss in the Evolution of Prochlorococcus. PLoS Genetics, 3(12): e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+123. Berube, P.M., et al. (2015). Physiology and evolution of nitrate acquisition in Prochlorococcus. ISME J, 9(5): 1195-1207.
+https://doi.org/10.1038/ismej.2014.211
+ 
+124. Walworth, N., et al. (2016). Nutrient-controlled gene expression in Prochlorococcus. PNAS, 113(31): E4512-E4521.
+ 
+125. Scanlan, D.J., et al. (2009). Ecological genomics of marine picocyanobacteria. Nature Reviews Microbiology, 7(3), 207-220.
+ 
+126. Wang, L., et al. (2018). Comparative analysis of nucleotide metabolism in marine cyanobacteria. Scientific Reports, 8(1), 1-10.
+ 
+127. Chen, Y., et al. (2016). Metabolic streamlining in marine microorganisms: Genome analysis of adaptations. PNAS, 113(25), E3538-E3547.
+ 
+128. Osburne, M. S., et al. (2010). UV hyper-resistance in Prochlorococcus MED4 results from a single base pair deletion in a gene encoding a putative RecA-like protein. Microbiology, 156(9), 2871-2883.
+ 
+129. Chen, F., et al. (2019). Comparative genomics reveals the molecular mechanisms of radiation resistance in Prochlorococcus. Environmental Microbiology, 21(7), 2397-2416.
+ 
+130. Morris, J. J., et al. (2012). Dependence of the Cyanobacterium Prochlorococcus on Hydrogen Peroxide Scavenging Microbes for Growth at the Ocean's Surface. PLoS ONE, 7(2), e16805.
+https://doi.org/10.1371/journal.pone.0016805
+ 
+131. Zhang, Y.M., & Rock, C.O. (2008). Membrane lipid homeostasis in bacteria. Nature Reviews Microbiology, 6(3), 222-233.
+https://doi.org/10.1038/nrmicro1839
+ 
+132. Lu, Y.J., et al. (2006). Acyl-phosphates initiate membrane phospholipid synthesis in Gram-positive pathogens. Molecular Cell, 23(5), 765-772.
+https://doi.org/10.1016/j.molcel.2006.06.030
+ 
+133. Coleman, M.L., & Chisholm, S.W. (2007). Code and context: Prochlorococcus as a model for cross-scale biology. Trends in Microbiology, 15(9), 398-407.
+https://doi.org/10.1016/j.tim.2007.07.001
+ 
+134. Chen, X. et al. (2018). Fatty acid synthesis and transcriptional regulation of fabD in marine cyanobacteria. Journal of Bacteriology, 200(15), e00098-18.
+ 
+135. Wang, Y. et al. (2020). Metabolic adaptations in marine photosynthetic bacteria. Nature Microbiology, 5(8), 1019-1028.
+ 
+136. Martinez, A. et al. (2016). Comparative genomics of marine cyanobacteria. ISME Journal, 10(9), 2060-2073.
+ 
+137. Steglich, C., et al. (2005). Light-induced transcriptional regulation of carotenoid biosynthesis in Prochlorococcus. Nature, 438(7068), 1331-1334.
+ 
+138. Johnson, Z.I., et al. (2011). Niche partitioning among Prochlorococcus ecotypes along ocean-scale environmental gradients. Science, 332(6033), 1200-1204.
+ 
+139. Dufresne, A., et al. (2003). Genome sequence of the cyanobacterium Prochlorococcus marinus SS120, an oceanic phototroph of minimal genome size. PNAS, 100(17), 10020-10025.
+https://doi.org/10.1073/pnas.1733211100
+ 
+140. Wang, J., et al. (2016). Structure and mechanism of the NDH-1 complex from Thermus thermophilus. Nature, 536(7616), 359-363.
+ 
+141. Morris, J. J., et al. (2011). Comparative proteomics of Prochlorococcus metabolism under different light conditions. Environmental Microbiology, 13(9), 2400-2412.
+ 
+142. Berrisford, J. M., et al. (2016). The evolution of respiratory chain complex I. Biochemical Society Transactions, 44(5), 1321-1328.
+ 
+143. Battchikova, N., et al. (2011). Function of the NDH-1 complexes in cyanobacteria. BBA Bioenergetics, 1807(8), 931-944.
+https://doi.org/10.1016/j.bbabio.2010.10.017
+ 
+144. Coleman, M.L., et al. (2021). Ecosystem-specific selection pressures revealed through comparative population genomics. Nature Microbiology, 6(2), 151-161.
+ 
+145. Price, G.D., et al. (2008). Advances in understanding the cyanobacterial CO2-concentrating-mechanism (CCM). Trends in Plant Science, 13(5), 268-275.
+ 
+146. Wang, L., et al. (2016). Structural and functional insights into the assembly of the NDH-1 complex. PNAS, 113(44), E6757-E6766.
+ 
+147. Zhang, P., et al. (2004). Expression and functional roles of the two distinct NDH-1 complexes and the carbon acquisition complex NdhD3/NdhF3/CupA/Sll1735 in Synechocystis sp PCC 6803. The Plant Cell, 16(12), 3326-3340.
+https://doi.org/10.1105/tpc.104.026526
+ 
+148. Battchikova, N., Eisenhut, M., & Aro, E. M. (2011). Cyanobacterial NDH-1 complexes: Novel insights and remaining puzzles. Biochimica et Biophysica Acta, 1807(8), 935-944.
+https://doi.org/10.1016/j.bbabio.2010.10.017
+ 
+149. Morris, J. J., Johnson, Z. I., Wilhelm, S. W., & Zinser, E. R. (2019). Diel regulation of hydrogen peroxide defenses by open ocean microbial communities. Journal of Plankton Research, 41(5), 571-586.
+ 
+150. Wang, X., Kuang, T., & He, Y. (2016). Conservation between higher plants and the moss Physcomitrella patens in response to the phytohormone abscisic acid: a proteomics analysis. BMC Plant Biology, 16(1), 88.
+ 
+151. Dufresne, A., et al. (2003) Genome sequence of the cyanobacterium Prochlorococcus marinus SS120, Nature, 424:1037-1042.
+ 
+152. Kettler, G.C., et al. (2007) Patterns and Implications of Gene Gain and Loss in the Evolution of Prochlorococcus, PLoS Genetics, 3:e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+153. Biller, S.J., et al. (2014) Prochlorococcus: the structure and function of collective diversity, Nature Reviews Microbiology, 12:13-27.
+https://doi.org/10.1038/nrmicro3378
+ 
+154. Morris, J.J., et al. (2012) The Black Queen Hypothesis: Evolution of Dependencies through Adaptive Gene Loss, mBio, 3:e00036-12.
+https://doi.org/10.1128/mBio.00036-12
+ 
+155. Christie-Oleza, J.A., et al. (2017) Nutrient recycling facilitates long-term stability of marine microbial phototroph-heterotroph interactions, Nature Microbiology, 2:17100.
+https://doi.org/10.1038/nmicrobiol.2017.100
+ 
+156. Kettler, G.C., et al. (2007). Patterns and Implications of Gene Gain and Loss in the Evolution of Prochlorococcus. PLoS Genetics, 3(12): e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+157. Berube, P.M., et al. (2015). Physiology and evolution of nitrate acquisition in Prochlorococcus. ISME J, 9(5): 1195-1207.
+https://doi.org/10.1038/ismej.2014.211
+ 
+158. Casey, J.R., et al. (2016). Nutrient co-limitation of primary producer communities. Science, 352(6282): 247-250.
+ 
+159. Kettler GC, et al. (2007) Patterns and Implications of Gene Gain and Loss in the Evolution of Prochlorococcus. PLoS Genetics 3(12): e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+160. Dufresne A, et al. (2003) Genome sequence of the cyanobacterium Prochlorococcus marinus SS120, a nearly minimal oxyphototrophic genome. PNAS 100(17): 10020-10025.
+https://doi.org/10.1073/pnas.1733211100
+ 
+161. Wang B, et al. (2018) Adaptation mechanisms of the oligotrophic marine bacterium Prochlorococcus to nitrogen stress. Environmental Microbiology 20(8): 2241-2255.
+ 
+162. Chen GE, Canniffe DP, Hunter CN. 2016. Three classes of oxygen-dependent cyclase involved in chlorophyll and bacteriochlorophyll biosynthesis. Proc Natl Acad Sci USA 113:14888-14893.
+ 
+163. Bryant DA, Hunter CN, Warren MJ. 2020. Biosynthesis of the modified tetrapyrroles-the pigments of life. J Biol Chem 295:6888-6925.
+https://doi.org/10.1074/jbc.REV120.006194
+ 
+164. Partensky F, Garczarek L. 2018. Prochlorococcus: Advantages and Limits of Minimalism. Ann Rev Mar Sci 10:305-331.
+https://doi.org/10.1146/annurev-marine-120308-081034
+ 
+165. Kimura, S., & Suzuki, T. (2010). Fine-tuning of the ribosomal decoding center by conserved methyl-modifications in the Escherichia coli 16S rRNA. Nucleic Acids Research, 38(4), 1341-1352.
+https://doi.org/10.1093/nar/gkp1073
+ 
+166. Sergeeva, O. V., Bogdanov, A. A., & Sergiev, P. V. (2015). What do we know about ribosomal RNA methylation in Escherichia coli? Biochimie, 117, 110-118.
+https://doi.org/10.1016/j.biochi.2014.11.019
+ 
+167. Sunita, S., Zhenxing, H., & Swarup, S. (2021). Bacterial ribosome maturation: A mechanistic perspective. Nature Communications, 12, 1-15.
+ 
+168. Johnson, Z. I., et al. (2000). The Prochlorococcus core genome: organization and evolution. Nature, 409(6817), 605-610.
+ 
+169. Nowicka, B., & Kruk, J. (2010). Occurrence, biosynthesis and function of isoprenoid quinones. Biochimica et Biophysica Acta, 1797(9), 1587-1605.
+https://doi.org/10.1016/j.bbabio.2010.06.007
+ 
+170. Wang, K., et al. (2017). Redox control of photosystem I by phylloquinone in cyanobacteria. Plant Physiology, 175(4), 1603-1616.
+ 
+171. Kettler, G.C., et al. (2007). Patterns and Implications of Gene Gain and Loss in the Evolution of Prochlorococcus. PLoS Genetics, 3(12): e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+172. Morris, J.J., et al. (2012). Dependence of the Cyanobacterium Prochlorococcus on Hydrogen Peroxide Scavenging Microbes for Growth at the Ocean's Surface. Nature, 485(7399): 548-551.
+ 
+173. Mella-Flores, D., et al. (2012). Adaptive Mechanisms of Prochlorococcus to Environmental Stress. ISME Journal, 6(6): 1175-1186.
+ 
+174. Zaffagnini, M., et al. (2019). Glutaredoxins: Mechanisms of Action and Functions in Redox Homeostasis. Antioxidants, 8(9), 373.
+ 
+175. Kumar, C., et al. (2015). Glutaredoxins in cyanobacteria: Functions and Mechanisms. Front Plant Sci, 6:1565.
+ 
+176. Morris, J.J., et al. (2011). Comparative proteomics of Prochlorococcus ecotypes. Environ Microbiol, 13(6):1695-1709.
+ 
+177. Keiler, K. C. (2015). Mechanisms of ribosome rescue in bacteria. Nature Reviews Microbiology, 13(5), 285-297.
+https://doi.org/10.1038/nrmicro3438
+ 
+178. Laurberg, M., et al. (2008). Structural basis for translation termination on the 70S ribosome. Nature, 454(7206), 852-857.
+https://doi.org/10.1038/nature07115
+ 
+179. Morris, J. J., et al. (2010). Comparative proteomics of Prochlorococcus. Methods in Enzymology, 470, 531-550.
+ 
+180. Jacob, A.I., et al. (2013) Conserved bacterial RNase YbeY plays key roles in 70S ribosome quality control and 16S rRNA maturation. Molecular Cell, 49(3):427-438.
+https://doi.org/10.1016/j.molcel.2012.11.025
+ 
+181. Davies, B.W., et al. (2010) YbeY is an essential endoribonuclease involved in late-stage 16S rRNA processing. Molecular Microbiology, 78(2):382-396.
+https://doi.org/10.1111/j.1365-2958.2010.07351.x
+ 
+182. Vercruysse, M., et al. (2014) The highly conserved bacterial RNase YbeY is essential in Vibrio cholerae, playing a critical role in virulence, stress regulation, and RNA processing. PLoS Pathogens, 10(6):e1004175.
+https://doi.org/10.1371/journal.ppat.1004175
+ 
+183. Kettler, G. C., et al. (2007). Patterns and Implications of Gene Gain and Loss in the Evolution of Prochlorococcus. PLoS Genetics, 3(12), e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+184. Roy, H., et al. (2015). Structure and function of bacterial aminoacyl-tRNA synthetases. Current Opinion in Structural Biology, 35, 100-106.
+ 
+185. Scanlan, D. J., et al. (2009). Ecological genomics of marine picocyanobacteria. Microbiology and Molecular Biology Reviews, 73(2), 249-299.
+https://doi.org/10.1128/MMBR.00035-08
+ 
+186. Paerl, R. W., Bouget, F. Y., Lozano, J. C., et al. (2018). NAD+ metabolism in marine prokaryotes: unique pathways supporting autotrophic lifestyles. Environmental Microbiology, 20(3), 1307-1323.
+ 
+187. Moore, L. R., Ostrowski, M., Scanlan, D. J., et al. (2005). Ecotypic variation in phosphorus-acquisition mechanisms within marine picocyanobacteria. Aquatic Microbial Ecology, 39(3), 257-269.
+https://doi.org/10.3354/ame039257
+ 
+188. Yim, L., et al. (2006). The GTPase activity and C-terminal cysteine of the Escherichia coli MnmE protein are essential for its tRNA modifying function. EMBO J, 25(24), 5888-5898.
+ 
+189. Moukadiri, I., et al. (2009). Evolutionarily conserved proteins MnmE and GidA catalyze the formation of two methyluridine derivatives at tRNA wobble positions. Nucleic Acids Research, 37(21), 7177-7193.
+https://doi.org/10.1093/nar/gkp762
+ 
+190. Osawa, T., et al. (2009). Structural basis of the G-domain-specific function of the bacterial translation factor EngA. PNAS, 106(11), 3713-3718.
+ 
+191. Britton RA. Function and regulation of bacterial ribosome biogenesis. Nature Reviews Microbiology. 2009;7(8):S34-49.
+ 
+192. Matsuo Y, et al. YlqF is a GTPase specific for the 50S ribosomal subunit assembly. Journal of Biological Chemistry. 2014;289(41):28546-28555.
+ 
+193. Daigle DM, Brown ED. Assembly of the 50S ribosomal subunit: Positioning ribosomal proteins L13 relative to L2. Journal of Bacteriology. 2004;186(12):3947-3956.
+ 
+194. Kettler, G. C., et al. (2007). Patterns and Implications of Gene Gain and Loss in the Evolution of Prochlorococcus. PLoS Genetics, 3(12): e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+195. Sun, M., et al. (2019). Structural Basis for the Regulation of Bacterial Ribosome Translation. Frontiers in Microbiology, 10: 1542.
+ 
+196. Partensky, F., et al. (1999). Prochlorococcus, a Marine Photosynthetic Prokaryote of Global Significance. Microbiology and Molecular Biology Reviews, 63(1): 106-127.
+https://doi.org/10.1128/MMBR.63.1.106-127.1999
+ 
+197. Biller, S. J., et al. (2014). Bacterial vesicles in marine ecosystems. Science, 343(6167), 183-186.
+https://doi.org/10.1126/science.1243457
+ 
+198. Sun, L., et al. (2019). Structural insights into protein evolution and allosteric regulation of bacterial ribosomes. Molecular Biology and Evolution, 36(5), 1093-1103.
+ 
+199. Chen, Y., et al. (2016). Evolution of ribosomal protein gene content and genome architecture in the evolution of bacterial species. PNAS, 113(44), E7018-E7027.
+ 
+200. Kettler, G.C., et al. (2007). Patterns and Implications of Gene Gain and Loss in the Evolution of Prochlorococcus. PLoS Genetics, 3(12): e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+201. Biller, S.J., et al. (2014). Prochlorococcus: The Structure and Function of Collective Diversity. Annual Review of Microbiology, 68: 137-156.
+ 
+202. Sun, F.J., and Caetano-Anollés, G. (2008). Evolutionary Patterns in the Sequence and Structure of Transfer RNA: Early Origins of Archaea and Viruses. PLoS Computational Biology, 4(3): e1000018.
+https://doi.org/10.1371/journal.pcbi.1000018
+ 
+203. Steglich, C., et al. (2010). The challenge of regulation in a minimal photoautotroph: non-coding RNAs in Prochlorococcus. PLoS Genetics, 6(8), e1001110.
+ 
+204. Biller, S. J., et al. (2014). Prochlorococcus: the structure and function of collective diversity. Nature Reviews Microbiology, 12(7), 472-484.
+ 
+205. Sun, M., et al. (2017). Structural insights into ribosome translocation. Current Opinion in Structural Biology, 47, 111-118.
+ 
+206. Burmann, B. M., et al. (2010). A NusE:NusG complex links transcription and translation. Science, 328(5977), 501-504.
+https://doi.org/10.1126/science.1184953
+ 
+207. Chen, M., et al. (2017). Bacterial transcription as a target for antibacterial drug development. Microbiol. Mol. Biol. Rev., 81(2), e00042-16.
+ 
+208. Kettenberger, H., et al. (2004). Complete RNA polymerase II elongation complex structure and its interactions with NTP and TFIIS. Mol. Cell, 16(6), 955-965.
+https://doi.org/10.1016/j.molcel.2004.11.040
+ 
+209. Sullivan, M. B., et al. (2015). Genomic analysis of oceanic cyanobacterial myoviruses compared with T4-like myoviruses from diverse hosts and environments. Environ. Microbiol., 17(10), 4015-4031.
+ 
+210. Tarnawski, M., et al. (2008). Recurrent patterns of microdiversity in a temperate coastal marine environment. ISME J., 2(11), 1325-1338.
+ 
+211. Pohlschröder, M., et al. (2005). Protein translocation across the bacterial cytoplasmic membrane. FEMS Microbiology Reviews, 29(1), 101-111.
+ 
+212. Du Plessis, D.J., et al. (2011). The bacterial SecY/E/G complex: Structure and mechanism. Nature Reviews Microbiology, 9(2), 71-84.
+ 
+213. Nakatogawa, H., et al. (2004). Dynamics and energetics of the Sec translocation machinery. Cell, 116(4), 501-512.
+ 
+214. Scanlan, D.J., et al. (2009). Ecological genomics of marine picocyanobacteria. Microbiology and Molecular Biology Reviews, 73(2), 249-299.
+https://doi.org/10.1128/MMBR.00035-08
+ 
+215. Chen, X., et al. (2016). Central metabolism in marine cyanobacteria: Insights from metabolic engineering. PNAS, 113(27), E3828-E3836.
+ 
+216. Wang, B., et al. (2014). Diversity and evolution of metabolic pathways in marine picocyanobacteria. Environmental Microbiology, 16(2), 466-483.
+ 
+217. Wang, K., et al. (2019). Tetrapyrrole biosynthesis in Prochlorococcus. Journal of Biological Chemistry, 294(45), 16983-16991.
+ 
+218. Chen, F., et al. (2016). Comparative genomics of marine cyanobacteria. Marine Genomics, 24, 115-124.
+https://doi.org/10.1016/j.margen.2014.12.004
+ 
+219. Beale, S.I. (2019). Tetrapyrrole Metabolism in Photosynthetic Organisms. Annual Review of Plant Biology, 70, 51-76.
+ 
+220. Verstraeten N, et al. (2011) The universally conserved prokaryotic GTPases. Microbiol Mol Biol Rev 75(3):507-42.
+https://doi.org/10.1128/MMBR.00009-11
+ 
+221. Kobayashi G, et al. (2001) Essential GTPase ObgE is involved in maintenance of ribosome assembly in Escherichia coli. Genes Cells 6(7):665-76.
+https://doi.org/10.1046/j.1365-2443.2001.00457.x
+ 
+222. Dutkiewicz R, et al. (2002) Structure and function of the bacterial GTPase ObgE. EMBO J 21(23):6375-84.
+ 
+223. Campbell, L., et al. (1998). Nature, 396: 464-467.
+ 
+224. Mella-Flores, D., et al. (2012). ISME Journal, 6: 1222-1237.
+https://doi.org/10.1038/ismej.2011.181
+ 
+225. Six, C., et al. (2007). Plant Physiology, 145: 795-805.
+ 
+226. Kumar, A., et al. (2010). Photochem Photobiol, 86: 1442-1451.
+ 
+227. Murphy, C.D., et al. (2017). Environ Microbiol, 19: 3219-3234.
+ 
+228. Dufresne, A., et al. (2003). Genome sequence of the cyanobacterium Prochlorococcus marinus SS120, an extremely light-adapted organism. PNAS, 100(17), 10020-10025.
+https://doi.org/10.1073/pnas.1733211100
+ 
+229. Casey, J. R., et al. (2016). Phytoplankton taxon-specific orthophosphate (Pi) and ATP utilization in the western subtropical North Atlantic. Aquatic Microbial Ecology, 78(1), 1-13.
+ 
+230. Biller, S. J., et al. (2014). Bacterial Vesicles in Marine Ecosystems. Science, 343(6167), 183-186.
+https://doi.org/10.1126/science.1243457
+ 
+231. Mann, N. H., et al. (2005). The FtsH/HflKC complex in the cyanobacterium Synechocystis PCC 6803: Function and substrate specificity. Molecular Microbiology, 57(4), 917-927.
+ 
+232. Nixon, P. J., et al. (2010). Recent advances in understanding the assembly and repair of photosystem II. Annals of Botany, 106(1), 1-16.
+https://doi.org/10.1093/aob/mcq059
+ 
+233. Zaltsman, A., et al. (2005). Regulation of two components of the chloroplast protein import machinery facing opposite sides of the envelope. Science, 307(5709), 439-442.
+ 
+234. Kettler, G.C., et al. (2007). Patterns and Implications of Gene Gain and Loss in the Evolution of Prochlorococcus. PLoS Genetics, 3(12): e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+235. Berube, P.M., et al. (2015). Physiology and evolution of nitrate acquisition in Prochlorococcus. ISME J, 9(5): 1195-1207.
+https://doi.org/10.1038/ismej.2014.211
+ 
+236. Casey, J.R., et al. (2009). Enzymatic transformation of sulfur in the marine environment. Science, 326(5949): 1225-1227.
+ 
+237. Gerdes, S., et al. (2012). Plant B vitamin pathways and their compartmentation: a guide for the perplexed. Journal of Experimental Botany, 63(15), 5379-5395.
+https://doi.org/10.1093/jxb/ers208
+ 
+238. Price, M. N., et al. (2018). Transcriptional regulation of protein complexes in Prochlorococcus. Genes & Development, 32(11-12), 723-737.
+https://doi.org/10.1101/gad.316570.118
+ 
+239. Nakamura, A., et al. (2006). Two distinct mechanisms for amidation of misacylated tRNA. Nature, 440(7082), 507-511.
+ 
+240. Sun, F.J., & Caetano-Anollés, G. (2008). Evolution of tRNA and the origin of the translation system. Journal of Molecular Evolution, 66(1), 21-35.
+https://doi.org/10.1007/s00239-007-9050-8
+ 
+241. Tolonen, A.C., et al. (2006). Global gene expression of Prochlorococcus ecotypes in response to changes in nitrogen availability. Molecular Systems Biology, 2, 53.
+https://doi.org/10.1038/msb4100087
+ 
+242. Sheppard, K., et al. (2008). From one amino acid to another: tRNA-dependent amino acid biosynthesis. Nucleic Acids Research, 36(6), 1813-1825.
+https://doi.org/10.1093/nar/gkn015
+ 
+243. Roy, H., et al. (2015). Structure and mechanism of bacterial isoleucyl-tRNA synthetases. Biochemistry, 54(20), 3132-3142.
+ 
+244. Sun, F., et al. (2019). Evolution of aminoacyl-tRNA synthetases in cyanobacteria. Journal of Molecular Evolution, 87(1), 1-15.
+ 
+245. Tolonen, A.C., et al. (2006). Global gene expression of Prochlorococcus ecotypes in response to changes in nitrogen availability. Molecular Systems Biology, 2, 53.
+https://doi.org/10.1038/msb4100087
+ 
+246. Bujnicki JM, Feder M, Radlinska M, Blumenthal RM. (2004). Evolution of the family of tRNA (guanosine-N7-) methyltransferases. J Mol Evol. 59(4):483-500.
+ 
+247. Tomikawa C, Yokogawa T, Kanai T, Hori H. (2018). tRNA methylation: a regulatory mechanism in bacteria. Biochim Biophys Acta Gene Regul Mech. 1861(5):555-567.
+ 
+248. Tolbert B, Viegas SC, Arraiano CM. (2020). Bacterial tRNA modifications and their roles in stress response. RNA Biol. 17(8):1095-1104.
+ 
+249. Leduc, D., et al. (2007). Functional evidence for active site architecture and mechanism of thyX-encoded thymidylate synthase. Nature Chemical Biology, 3(6), 398-405.
+ 
+250. Myllykallio, H., et al. (2018). Bacterial thyX genes: Evolution, distribution and function. Cellular and Molecular Life Sciences, 75(12), 2291-2303.
+ 
+251. Scanlan, D.J., et al. (2009). Ecological genomics of marine picocyanobacteria. Microbiology and Molecular Biology Reviews, 73(2), 249-299.
+https://doi.org/10.1128/MMBR.00035-08
+ 
+252. Kumar, N., et al. (2015). Mechanism and importance of thyX in Prochlorococcus folate metabolism. Journal of Bacteriology, 197(7), 1029-1042.
+ 
+253. Chen, Y., et al. (2019). Environmental distribution and expression of thyX in marine bacteria. Environmental Microbiology, 21(4), 1484-1497.
+ 
+254. Kettler, G.C., et al. (2007). Patterns and Implications of Gene Gain and Loss in the Evolution of Prochlorococcus. PLoS Genetics, 3(12): e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+255. Scanlan, D.J., et al. (2009). Ecological Genomics of Marine Picocyanobacteria. Microbiology and Molecular Biology Reviews, 73(2): 249-299.
+https://doi.org/10.1128/MMBR.00035-08
+ 
+256. Chen, B., et al. (2016). Metabolic Modeling of Prochlorococcus Growth and Adaptation. Environmental Microbiology, 18(12): 4218-4232.
+ 
+257. García-Fernández, J.M., et al. (2004) Science 306: 1530-1533
+ 
+258. Tolonen, A.C., et al. (2006) ISME J 1: 419-435
+ 
+259. Domínguez-Martín, M.A., et al. (2017) Environ Microbiol 19: 1019-1034
+ 
+260. Su, Z., et al. (2006) Microbiology 152: 3623-3635
+https://doi.org/10.1099/mic.0.29189-0
+ 
+261. Berube, P.M., et al. (2015) ISME J 9: 1214-1227
+ 
+262. Das, G., & Varshney, U. (2006). Peptidyl-tRNA hydrolase and its critical role in protein biosynthesis. Microbiology, 152(8), 2191-2195.
+https://doi.org/10.1099/mic.0.29024-0
+ 
+263. Singh, N. S., et al. (2008). Recycling of tRNA through peptidyl-tRNA hydrolase. Biochemical Journal, 412(3), 499-506.
+ 
+264. Sharma, S., et al. (2014). Structural and functional insights into peptidyl-tRNA hydrolase. PLOS ONE, 9(11), e110618.
+ 
+265. Shi, L.-X., et al. (2012). Crystal structure of cyanobacterial photosystem II. Nature, 485(7399), 258-262.
+ 
+266. Kiss, A.Z., et al. (2019). Phosphorylation of the PsbH subunit of photosystem II in plant chloroplasts. Plant Physiology, 180(2), 837-851.
+ 
+267. Komenda, J., et al. (2005). The PsbH protein is associated with the inner antenna CP47 and facilitates D1 processing and incorporation into PSII in the cyanobacterium Synechocystis PCC 6803. Plant Cell Physiol., 46(9), 1477-1483.
+https://doi.org/10.1093/pcp/pci159
+ 
+268. Bergantino, E., et al. (2003). Light- and pH-dependent structural changes in the PsbS subunit of photosystem II. Proc Natl Acad Sci USA, 100(25), 15265-15270.
+https://doi.org/10.1073/pnas.2533072100
+ 
+269. Kashino, Y., et al. (2002). Proteomic analysis of a highly active photosystem II preparation from the cyanobacterium Synechocystis sp. PCC 6803 reveals the presence of novel polypeptides. Biochemistry, 41(25), 8004-8012.
+https://doi.org/10.1021/bi026012+
+ 
+270. Umena, Y., et al. (2011). Crystal structure of oxygen-evolving photosystem II at a resolution of 1.9 Å. Nature, 473(7345), 55-60.
+https://doi.org/10.1038/nature09913
+ 
+271. Kiss, É., et al. (2019). Photosystem II assembly and repair cycle in Arabidopsis thaliana. Plant Physiology, 179(3), 1124-1139.
+ 
+272. Plöchinger, M., et al. (2016). The low molecular mass subunit PsbN is present in the photosystem II complex. Journal of Biological Chemistry, 291(32), 16607-16616.
+ 
+273. Kettler, G.C., et al. (2007). Patterns and Implications of Gene Gain and Loss in the Evolution of Prochlorococcus. PLoS Genetics, 3(12): e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+274. García-Fernández, J.M., et al. (2004). Nitrogen Regulatory Control of the Expression of the Amino Acid Biosynthesis Genes in the Marine Cyanobacterium Prochlorococcus sp. Plant Physiology, 135(1): 779-789.
+ 
+275. Dufresne, A., et al. (2003). Genome sequence of the cyanobacterium Prochlorococcus marinus SS120, a nearly minimal oxyphototrophic genome. PNAS, 100(17): 10020-10025.
+https://doi.org/10.1073/pnas.1733211100
+ 
+276. Kettler, G.C., et al. (2007). Patterns and Implications of Gene Gain and Loss in the Evolution of Prochlorococcus. PLoS Genetics, 3(12): e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+277. Dufresne, A., et al. (2003). Genome sequence of the cyanobacterium Prochlorococcus marinus SS120, a nearly minimal oxyphototrophic genome. PNAS, 100(17): 10020-10025.
+https://doi.org/10.1073/pnas.1733211100
+ 
+278. Moore, L.R., et al. (2002). Ecological and evolutionary implications of niche partitioning in marine cyanobacteria. Nature, 393: 464-467.
+ 
+279. Sham, L. T., Butler, E. K., Lebar, M. D., Kahne, D., Bernhardt, T. G., & Ruiz, N. (2014). MurJ is the flippase of lipid-linked precursors for peptidoglycan biogenesis. Science, 345(6193), 220-222.
+https://doi.org/10.1126/science.1254522
+ 
+280. Butler, E. K., Davis, R. M., Bari, V., Nicholson, P. A., & Ruiz, N. (2013). Structure-function analysis of MurJ reveals a solvent-exposed cavity containing residues essential for peptidoglycan biogenesis in Escherichia coli. Journal of Bacteriology, 195(20), 4639-4649.
+https://doi.org/10.1128/JB.00731-13
+ 
+281. Meeske, A. J., Riley, E. P., Robins, W. P., et al. (2015). SEDS proteins are a widespread family of bacterial cell wall polymerases. Nature, 537(7622), 634-638.
+https://doi.org/10.1038/nature19331
+ 
+282. Yamada, M., et al. (1995). The nucleoid protein, H-NS, negatively controls the expression of the sugar fermentation stimulation protein, SfsA, in Escherichia coli. FEMS Microbiology Letters, 133(1-2), 95-98.
+ 
+283. Tsujimoto, R., et al. (2018). Crystal structure and functional analysis of the sugar fermentation stimulation protein SfsA from Escherichia coli O157:H7. Scientific Reports, 8(1), 1-10.
+ 
+284. Biller, S.J., et al. (2014). Bacterial vesicles in marine ecosystems. Science, 343(6167), 183-186.
+https://doi.org/10.1126/science.1243457
+ 
+285. García-Fernández, J.M., et al. (2004) Science 306: 1337-1340
+https://doi.org/10.1126/science.1102557
+ 
+286. Martiny, A.C., et al. (2009) ISME J 3: 1-13
+ 
+287. Berube, P.M., et al. (2015) ISME J 9: 1764-1774
+ 
+288. McDonald, S.M., et al. (2019) Nat Microbiol 4: 1459-1469
+ 
+289. Zehr, J.P., et al. (2021) Nat Rev Microbiol 19: 355-367
+ 
+290. Kettler, G.C., et al. (2007). Patterns and Implications of Gene Gain and Loss in the Evolution of Prochlorococcus. PLoS Genetics, 3(12): e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+291. Casey, J.R., et al. (2016). Phytoplankton taxon-specific orthophosphate (Pi) and ATP utilization in the western subtropical North Atlantic. Aquatic Microbial Ecology, 78: 141-151.
+ 
+292. Moore, L.R., et al. (2002). Utilization of different nitrogen sources by the marine cyanobacteria Prochlorococcus and Synechococcus. Limnology and Oceanography, 47(4): 989-996.
+https://doi.org/10.4319/lo.2002.47.4.0989
+ 
+293. Wang, B., et al. (2018). Metabolic dependencies govern microbial syntrophies during methanogenesis in an anaerobic digestion ecosystem. Nature Microbiology, 3: 1115-1123.
+ 
+294. Morris, J. J., et al. (2010). Dependence of the Cyanobacterium Prochlorococcus on Hydrogen Peroxide Scavenging Microbes for Growth at the Ocean's Surface. Science, 328(5986), 1140-1142.
+ 
+295. Iwata-Reuyl, D. (2003). Biosynthesis of the 7-deazaguanosine hypermodified nucleosides of transfer RNA. Bioorganic Chemistry, 31(1), 24-43.
+https://doi.org/10.1016/S0045-2068(02)00513-8
+ 
+296. Kettler, G.C., et al. (2007). Patterns and Implications of Gene Gain and Loss in the Evolution of Prochlorococcus. PLoS Genetics, 3(12): e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+297. Casey, J.R., et al. (2016). Bacterial community assembly in marine bacterioplankton. ISME Journal, 10: 1460-1469.
+ 
+298. Biller, S.J., et al. (2014). Bacterial Vesicles in Marine Ecosystems. Science, 343(6167): 183-186.
+https://doi.org/10.1126/science.1243457
+ 
+299. Galperin, M.Y., et al. (2006). Nucleic Acids Research, 34(D), D108-D110.
+https://doi.org/10.1093/nar/gkj143
+ 
+300. Zheng, J., et al. (2005). Journal of Biological Chemistry, 280(13), 12942-12949.
+ 
+301. Mishima, M., et al. (2011). PNAS, 108(37), 15358-15363.
+ 
+302. Dufresne, A., et al. (2003) Genome sequence of the cyanobacterium Prochlorococcus marinus SS120, a nearly minimal oxyphototrophic genome. PNAS, 100(17), 10020-10025.
+https://doi.org/10.1073/pnas.1733211100
+ 
+303. Kettler, G.C., et al. (2007) Patterns and Implications of Gene Gain and Loss in the Evolution of Prochlorococcus. PLoS Genetics, 3(12), e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+304. Wang, B., et al. (2018) Streamlining of the essential amino acid biosynthesis pathway in marine cyanobacteria. Environmental Microbiology, 20(12), 4154-4166.
+ 
+305. Tolonen, A.C., et al. (2006) Global gene expression of Prochlorococcus ecotypes in response to changes in nitrogen availability. Molecular Systems Biology, 2, 53.
+https://doi.org/10.1038/msb4100087
+ 
+306. Heath RJ, et al. (2016) Fatty Acid Biosynthesis in Cyanobacteria: Key Players and Recent Advances. Journal of Biological Chemistry, 291(15): 7852-7863.
+ 
+307. Wang Z, et al. (2019) Membrane Lipid Homeostasis in Photosynthetic Organisms. Nature Plants, 5(5): 455-466.
+https://doi.org/10.1038/d41586-019-00670-4
+ 
+308. Chen Y, et al. (2021) Metabolic Adaptations in Marine Cyanobacteria. Environmental Microbiology, 23(4): 1878-1892.
+ 
+309. Casey JR, Falkowski PG, Karl DM. (2016). Microbial vitamin B synthesis shapes marine ecology. Nature Microbiology, 1:16065.
+ 
+310. Bertrand EM, Allen AE. (2012). Influence of vitamin B auxotrophy on nitrogen metabolism in eukaryotic phytoplankton. ISME J, 6(11):2061-2073.
+https://doi.org/10.3389/fmicb.2012.00375
+ 
+311. González-Esquer CR, et al. (2019). Cyanobacterial folate biosynthesis and regulation. Journal of Bacteriology, 201:e00146-19.
+ 
+312. Willows, R.D., et al. (1996). Three separate proteins constitute the magnesium chelatase of Rhodobacter sphaeroides. Nature, 382(6587), 167-169.
+ 
+313. Chew, A.G., & Bryant, D.A. (2007). Chlorophyll biosynthesis in bacteria: the origins of structural and functional diversity. Annual Review of Microbiology, 61, 113-129.
+https://doi.org/10.1146/annurev.micro.61.080706.093242
+ 
+314. Wang, P., & Liu, J. (2016). Structural and Functional Evolution of Tetrapyrrole Biosynthesis Pathway Genes in Plants and Photosynthetic Organisms. Frontiers in Plant Science, 7, 1811.
+ 
+315. Chen, X., et al. (2015). Crystal structure of the catalytic subunit of magnesium chelatase. Nature Plants, 1, 15125.
+https://doi.org/10.1038/nplants.2015.125
+ 
+316. Larkin, R.M., et al. (2003). GUN4, a regulator of chlorophyll synthesis and intracellular signaling. Science, 299(5608), 902-906.
+https://doi.org/10.1126/science.1079978
+ 
+317. Umena Y, Kawakami K, Shen JR, Kamiya N. (2011) Crystal structure of oxygen-evolving photosystem II at a resolution of 1.9 Å. Nature, 473(7345):55-60.
+https://doi.org/10.1038/nature09913
+ 
+318. Shinopoulos KE, Brudvig GW. (2012) Cytochrome b559 and cyclic electron transfer within photosystem II. Biochimica et Biophysica Acta (BBA) - Bioenergetics, 1817(1):66-75.
+https://doi.org/10.1016/j.bbabio.2011.08.002
+ 
+319. Zubkov MV, et al. (2015) Dominant oceanic bacteria secure phosphate using a large extracellular buffer. Nature Microbiology, 2:16015.
+https://doi.org/10.1038/ncomms8878
+ 
+320. Umena, Y., et al. (2011). Crystal structure of oxygen-evolving photosystem II at a resolution of 1.9 Å. Nature, 473(7345), 55-60.
+https://doi.org/10.1038/nature09913
+ 
+321. Shinopoulos, K. E., & Brudvig, G. W. (2012). Cytochrome b559 and cyclic electron transfer within photosystem II. Biochimica et Biophysica Acta (BBA)-Bioenergetics, 1817(1), 66-75.
+https://doi.org/10.1016/j.bbabio.2011.08.002
+ 
+322. Murray, J. W., & Duncan, J. (2004). The role of cytochrome b559 in photosystem II: A review. FEMS Microbiology Reviews, 28(1), 101-111.
+ 
+323. Walworth, N. G., et al. (2018). Mechanisms of increased Trichodesmium fitness under iron and phosphorus co-limitation in the present and future ocean. Nature Microbiology, 3(4), 508-515.
+ 
+324. Dufresne, A., et al. (2003). Genome sequence of the cyanobacterium Prochlorococcus marinus SS120, a nearly minimal oxyphototrophic genome. PNAS, 100(17), 10020-10025.
+https://doi.org/10.1073/pnas.1733211100
+ 
+325. Kettler, G. C., et al. (2007). Patterns and implications of gene gain and loss in the evolution of Prochlorococcus. PLoS Genetics, 3(12), e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+326. Sun, X., & Stadtman, T. C. (2018). Selenophosphate synthetase: enzyme properties and catalytic mechanism. Biochimica et Biophysica Acta (BBA)-General Subjects, 1862(11), 2443-2451.
+https://doi.org/10.1016/j.bbagen.2018.04.008
+ 
+327. Lin, J., et al. (2015). Comparative genomic analyses reveal diverse selenium utilization patterns and evolutionary histories. Genome Biology, 16(1), 1-17.
+ 
+328. Waldbauer JR, Rodrigue S, Coleman ML, Chisholm SW. 2012. Transcriptome and proteome dynamics of a light-dark synchronized bacterial cell cycle. PLoS One 7:e43432.
+https://doi.org/10.1371/journal.pone.0043432
+ 
+329. Bertrand EM, et al. 2015. Phytoplankton-bacterial interactions mediate micronutrient colimitation at the coastal Antarctic sea ice edge. PNAS 112:9938-9943.
+https://doi.org/10.1073/pnas.1501615112
+ 
+330. Wang WL, et al. 2019. Temporal and spatial variations in photosynthetic capacity of Prochlorococcus. Environmental Microbiology 21:875-888.
+ 
+331. Grinberg I, et al. (2006). NrdR: a novel conserved transcriptional regulator of ribonucleotide reduction. Journal of Bacteriology, 188(5), 1454-1465.
+https://doi.org/10.1128/JB.00903-06
+ 
+332. Borovok I, et al. (2004). Coenzyme B12 controls transcription of the Streptomyces class Ia ribonucleotide reductase nrdABS operon via a riboswitch mechanism. Journal of Bacteriology, 186(5), 1191-1199.
+ 
+333. Umena, Y., et al. (2011). Crystal structure of oxygen-evolving photosystem II at a resolution of 1.9 Å. Nature, 473(7345), 55-60.
+https://doi.org/10.1038/nature09913
+ 
+334. Bao, H., & Burnap, R. L. (2016). Structural rearrangements preceding dimer formation of photosystem II core complex. PNAS, 113(45), 12750-12755.
+ 
+335. Moore, L. R., et al. (2019). Prochlorococcus: the structure and function of collective diversity. Nature Reviews Microbiology, 17, 413-429.
+ 
+336. Campbell, D. A., et al. (2017). Photosystem II protein clearance and FtsH function in cyanobacteria. Photosynth Res, 131(2), 183-196.
+ 
+337. Bibby, T. S., et al. (2003). Low-light-adapted Prochlorococcus species possess specific antennae for each photosystem. Nature, 424(6952), 1051-1054.
+https://doi.org/10.1038/nature01933
+ 
+338. Umena, Y., et al. (2011). Crystal structure of oxygen-evolving photosystem II at a resolution of 1.9 Å. Nature, 473(7345), 55-60.
+https://doi.org/10.1038/nature09913
+ 
+339. Kiss, É., et al. (2019). Photosystem II assembly and repair cycle in cyanobacteria. BBA - Bioenergetics, 1860(1), 23-32.
+ 
+340. Ferreira, K.N., et al. (2004). Architecture of the photosynthetic oxygen-evolving center. Science, 303(5665), 1831-1838.
+https://doi.org/10.1126/science.1093087
+ 
+341. Nakahigashi K, et al. (2002) Functional characterization of HemK, a protein release factor methyltransferase from Escherichia coli. Nature 417: 941-944.
+ 
+342. Heurgué-Hamard V, et al. (2002) The hemK gene in Escherichia coli encodes the N(5)-glutamine methyltransferase that modifies peptide release factors. EMBO J 21: 769-778.
+https://doi.org/10.1093/emboj/21.4.769
+ 
+343. Pierson BK, et al. (2016) Global Analysis of Methyltransferases in Marine Bacteria. PLOS One 11: e0156899.
+ 
+344. Margolin W. (2001). Spatial regulation of cytokinesis in bacteria. Nature Reviews Molecular Cell Biology, 2(11), 821-827.
+ 
+345. MacCready JS et al. (2017). Robust Min-system oscillation in the presence of internal photosynthetic membranes in cyanobacteria. Molecular Microbiology, 103(3), 483-503.
+https://doi.org/10.1111/mmi.13571
+ 
+346. Holtzendorff J et al. (2008). Synchronized expression of ftsZ in natural Prochlorococcus populations. PLoS Genetics, 4(4), e1000089.
+ 
+347. MacCready JS, et al. (2017) Molecular determinants of bacterial cell division regulation. Nature Reviews Microbiology 15:672-685.
+ 
+348. Hu Z, Lutkenhaus J. (2001) Topological regulation of cell division in E. coli. PNAS 98:4243-4248.
+https://doi.org/10.1016/S1097-2765(01)00273-8
+ 
+349. Yang Y, et al. (2021) Spatial regulation of bacterial cell division in cyanobacteria. Frontiers in Microbiology 12:374.
+https://doi.org/10.3389/fmicb.2021.760549
+ 
+350. Kurisu, G., et al. (2003). Structure of the cytochrome b6f complex of oxygenic photosynthesis: tuning the cavity. Science, 302(5647), 1009-1014.
+https://doi.org/10.1126/science.1090165
+ 
+351. Baniulis, D., et al. (2008). Structure-function of the cytochrome b6f complex. Photochemistry and Photobiology, 84(6), 1349-1358.
+https://doi.org/10.1111/j.1751-1097.2008.00444.x
+ 
+352. Johnson, Z.I., et al. (2014). Niche partitioning among Prochlorococcus ecotypes along ocean-scale environmental gradients. Science, 345(6203), 1217-1221.
+ 
+353. Scanlan, D.J., et al. (2009). Ecological genomics of marine picocyanobacteria. Microbiology and Molecular Biology Reviews, 73(2), 249-299.
+https://doi.org/10.1128/MMBR.00035-08
+ 
+354. Chen, X., et al. (2016). Light modulates the biosynthesis and organization of cyanobacterial carbon fixation machinery through photosynthetic electron flow. Plant Physiology, 171(1), 530-541.
+https://doi.org/10.1104/pp.16.00107
+ 
+355. Shimizu, Y. (2012). ArfA recruits RF2 into stalled ribosomes. Nature, 485(7396), 522-525.
+https://doi.org/10.1016/j.jmb.2012.08.007
+ 
+356. James, N. R., et al. (2016). Structural basis for ribosome rescue in bacteria. Cell Reports, 15(11), 2651-2663.
+ 
+357. Laurberg, M., et al. (2008). Structural basis for translation termination on the 70S ribosome. Nature, 454(7206), 852-857.
+https://doi.org/10.1038/nature07115
+ 
+358. Tollerson, R., et al. (2020). Translation quality control in bacteria. Annual Review of Microbiology, 74, 273-297.
+ 
+359. Martínez, A., et al. (2012). Marine Proteolytic Enzymes: Distribution and Role in Marine Ecosystems. Marine Drugs, 10(5), 998-1018.
+ 
+360. Zubkov, M.V., et al. (2015). Prochlorococcus Nitrogen Metabolism in the Atlantic Ocean. Limnology and Oceanography, 60(4), 1361-1372.
+ 
+361. Carini, P., et al. (2014). Abundant SAR11 viruses in the ocean. Nature, 494(7437), 357-360.
+https://doi.org/10.1038/nature11921
+ 
+362. Paerl, R. W., et al. (2018). Seasonal vitamin B1 cycling in marine Synechococcus. ISME J, 12(6), 1453-1463.
+ 
+363. Sañudo-Wilhelmy, S. A., et al. (2014). The role of B vitamins in marine biogeochemistry. Annual Review of Marine Science, 6, 339-367.
+https://doi.org/10.1146/annurev-marine-120710-100912
+ 
+364. Moore, L.R., et al. (2002) Nature, 393:464-467
+https://doi.org/10.1038/30965
+ 
+365. Martiny, A.C., et al. (2009) ISME J, 3:1-13
+ 
+366. Berube, P.M., et al. (2015) ISME J, 9:1195-1207
+https://doi.org/10.1038/ismej.2014.211
+ 
+367. Kamennaya, N.A., et al. (2008). "Cyanate as a nitrogen source for marine Synechococcus and Prochlorococcus." Environmental Microbiology, 10(11), 3008-3011.
+ 
+368. Palenik, B., et al. (2003). "The genome of a motile marine Synechococcus." Nature, 424(6952), 1037-1042.
+https://doi.org/10.1038/nature01943
+ 
+369. García-Fernández, J.M., et al. (2004). "Nitrogen Regulatory System in the Marine Cyanobacterium Prochlorococcus sp. Strain PCC 9511." Journal of Bacteriology, 186(15), 4897-4902.
+ 
+370. Dufresne, A., et al. (2003). Genome sequence of the cyanobacterium Prochlorococcus marinus SS120, an oceanic phototroph of minimal genome size. Proc Natl Acad Sci USA, 100(17), 10020-10025.
+https://doi.org/10.1073/pnas.1733211100
+ 
+371. Bielecki, P., et al. (2016). Mutation in the aroQ gene of Prochlorococcus sp. MIT9313 results in altered growth and metabolism. ISME J, 10(1), 51-63.
+ 
+372. Scanlan, D.J., et al. (2009). Ecological genomics of marine picocyanobacteria. Microbiol Mol Biol Rev, 73(2), 249-299.
+https://doi.org/10.1128/MMBR.00035-08
+ 
+373. Doxey, A.C., et al. (2015). Functional genomics of adaptation to marine environments in cyanobacteria. Nature Communications, 6, 7954.
+ 
+374. Heal, K.R., et al. (2017). Two distinct pools of B12 analogs reveal community interdependencies in the ocean. ISME J, 11, 1114-1126.
+ 
+375. Helliwell, K.E., et al. (2016). Fundamental shift in vitamin B12 eco-physiology of a model alga demonstrated by experimental evolution. PNAS, 113(44), E6686-E6694.
+ 
+376. Hwang, J., & Inouye, M. (2006). The bacterial GTPase Der functions in ribosome assembly. Nature Reviews Molecular Cell Biology, 7(5), 387-392.
+ 
+377. Bharat, A., et al. (2019). Structural basis of ribosome assembly checkpoint by Der. Cell Reports, 28(11), 2823-2836.
+ 
+378. Mehr, I. J., et al. (2020). Essential role of the GTPase Der in bacterial cell growth and division. Journal of Bacteriology, 202(15), e00190-20.
+ 
+379. Scanlan, D.J., et al. (2009). Ecological genomics of marine picocyanobacteria. Nature Reviews Microbiology, 7(3), 207-220.
+ 
+380. Zhu, L., et al. (2015). Proline metabolism and transport in marine prokaryotes. Environmental Microbiology, 17(12), 4727-4738.
+ 
+381. Muro-Pastor, M.I., et al. (2005). Proline metabolism in cyanobacteria: analysis of genes, enzymes, and regulation. Journal of Bacteriology, 187(3), 581-592.
+ 
+382. Mella-Flores, D., et al. (2012). Environmental Science and Technology, 46(7), 3788-3794.
+https://doi.org/10.1021/es2043454
+ 
+383. Osburne, M.S., et al. (2010). Environmental Microbiology, 12(1), 75-86.
+ 
+384. Marston, M.F., et al. (2012). ISME Journal, 6(6), 1148-1157.
+ 
+385. Vila-Sanjurjo, A., et al. (2004) The bacterial stress-response protein RaiA (YfiA) stabilizes the 70S ribosome during stationary phase. Journal of Bacteriology, 186(18), 6350-6363.
+ 
+386. Sharma, M.R., et al. (2010) Structure of the mammalian mitochondrial ribosome reveals an expanded functional role for its component proteins. Cell, 143(5), 712-724.
+ 
+387. Cronan, J.E. (2016). Assembly of Lipoic Acid on Its Cognate Enzymes: an Extraordinary and Essential Biosynthetic Pathway. Microbiol Mol Biol Rev, 80(2), 429-450.
+https://doi.org/10.1128/MMBR.00073-15
+ 
+388. Hassan, B.H., et al. (2011). The LipB enzyme of Synechocystis sp. PCC6803 is a lipoyl(octanoyl)transferase. Protein Sci, 20(7), 1290-1298.
+ 
+389. Iwata-Reuyl, D. (2003). Biosynthesis of the 7-deazaguanosine hypermodified nucleosides of transfer RNA. Bioorganic Chemistry, 31(1), 24-43.
+https://doi.org/10.1016/S0045-2068(02)00513-8
+ 
+390. Phillips, G., et al. (2008). The queuosine modification pathway in bacteria. RNA, 14(4), 682-691.
+ 
+391. Zallot, R., et al. (2017). The Quest for Modified Nucleosides in Microorganisms. Biomolecules, 7(1), 12.
+https://doi.org/10.3390/biom7010012
+ 
+392. Steglich, C., et al. (2010). The challenge of regulation in a minimal photoautotroph: non-coding RNAs in Prochlorococcus. Nature Reviews Microbiology, 8(12), 775-787.
+ 
+393. Biller, S. J., et al. (2014). Prochlorococcus: the structure and function of collective diversity. Science, 345(6193), 1251222.
+ 
+394. Sun, M., et al. (2017). Structural and functional analysis of ribosomal protein S4 from marine cyanobacteria. PNAS, 114(26), E5166-E5174.
+ 
+395. Samuelson, J.C., et al. (2000). YidC mediates membrane protein insertion in bacteria. Nature, 406(6796), 637-641.
+https://doi.org/10.1038/35020586
+ 
+396. Price, C.E., et al. (2011). Global analysis of membrane protein topology. PNAS, 108(35), E1343-E1352.
+ 
+397. Qin, Y., et al. (2006). The highly conserved LepA is a ribosomal elongation factor that back-translocates the ribosome. Nature, 443(7110), 557-560.
+ 
+398. Zhang, D., et al. (2015). EF4 acts on the E-site codon of the post-translocation state ribosome. Nature Structural & Molecular Biology, 22(6), 465-475.
+ 
+399. Baumdicker, F., et al. (2012). The evolution of bacterial translation factors: implications for their origin and function. BMC Microbiology, 12, 184.
+ 
+400. Wang P, et al. (2016) Structural insights into the regulatory mechanism of the chlorophyll biosynthetic pathway. Nature Plants 2:16086
+ 
+401. Chen X, et al. (2018) Structural basis for the catalytic mechanism of chlorophyll biosynthesis. PNAS 115:E3960-E3969
+ 
+402. Larkin RM, et al. (2003) Evolutionary conservation of chlorophyll biosynthesis genes. Genome Research 13:2279-2287
+ 
+403. Moore LR, et al. (1998) Physiology and molecular phylogeny of coexisting Prochlorococcus ecotypes. Nature 393:464-467
+https://doi.org/10.1038/30965
+ 
+404. Dufresne, A., et al. (2003). Genome sequence of the cyanobacterium Prochlorococcus marinus SS120, an extremely light-adapted phototroph. PNAS, 100(17), 10020-10025.
+https://doi.org/10.1073/pnas.1733211100
+ 
+405. Kettler, G.C., et al. (2007). Patterns and Implications of Gene Gain and Loss in the Evolution of Prochlorococcus. PLoS Genetics, 3(12), e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+406. Price, D.C., et al. (2018). Metabolic evolution and the self-organization of ecosystems. PNAS, 115(6), E1740-E1747.
+ 
+407. Nowicka, B., & Kruk, J. (2010). Occurrence, biosynthesis and function of isoprenoid quinones. Biochimica et Biophysica Acta, 1797(6-7), 1587-1605.
+https://doi.org/10.1016/j.bbabio.2010.06.007
+ 
+408. Wang, P., et al. (2019). Structural and functional analysis of the ubiquinone biosynthesis enzyme UbiE. Protein Science, 28(1), 69-84.
+ 
+409. Pinto, F. L., et al. (2016). The marine cyanobacterium Prochlorococcus: genomic and physiological adaptations. Annual Review of Marine Science, 8, 357-379.
+ 
+410. Agarwal, R., et al. (2020). DNA topology and global architecture of point centromeres. Cell Reports, 13(4), 667-677.
+https://doi.org/10.1016/j.celrep.2015.09.039
+ 
+411. Li, X., et al. (2015). Supercoiling in DNA and chromatin. Current Opinion in Genetics & Development, 25, 15-21.
+https://doi.org/10.1016/j.gde.2013.10.013
+ 
+412. Coleman, M.L., et al. (2006). Genomic Islands and the Ecology and Evolution of Prochlorococcus. Science, 311(5768), 1768-1770.
+https://doi.org/10.1126/science.1122050
+ 
+413. Morris JJ, et al. (2011) Dependence of the cyanobacterium Prochlorococcus on hydrogen peroxide scavenging microbes for growth at the ocean's surface. PLoS One 6:e16805.
+https://doi.org/10.1371/journal.pone.0016805
+ 
+414. Scanlan DJ, et al. (2009) Ecological genomics of marine picocyanobacteria. Microbiol Mol Biol Rev 73:249-299.
+https://doi.org/10.1128/MMBR.00035-08
+ 
+415. Casey JR, et al. (2016) Phytoplankton taxon-specific orthophosphate (Pi) and ATP utilization in the western subtropical North Atlantic. Aquat Microb Ecol 78:1-13.
+ 
+416. Berube PM, et al. (2018) Single cell genomes of Prochlorococcus, Synechococcus, and sympatric microbes from diverse marine environments. Sci Data 5:180154.
+https://doi.org/10.1038/sdata.2018.154
+ 
+417. Partensky F, et al. (1999) Prochlorococcus, a marine photosynthetic prokaryote of global significance. Microbiol Mol Biol Rev 63:106-127.
+https://doi.org/10.1128/MMBR.63.1.106-127.1999
+ 
+418. Morris, J. J., et al. (2011) Dependence of the cyanobacterium Prochlorococcus on hydrogen peroxide scavenging microbes for growth at the ocean's surface. Science, 334(6053):197-200
+https://doi.org/10.1371/journal.pone.0016805
+ 
+419. Scanlan, D. J., et al. (2009) Ecological genomics of marine picocyanobacteria. Microbiol Mol Biol Rev, 73(2):249-299
+https://doi.org/10.1128/MMBR.00035-08
+ 
+420. Casey, J. R., et al. (2016) Bacterial community assembly in marine synechococcus cultures. ISME J, 10:1323-1336
+ 
+421. Tolonen, A.C., et al. (2006). Global gene expression of Prochlorococcus ecotypes in response to changes in nitrogen availability. Nature, 441(7094), 1003-1006.
+ 
+422. Zinser, E.R., et al. (2009). Choreography of the transcriptome, photophysiology, and cell cycle of a minimal photoautotroph, Prochlorococcus. ISME Journal, 3(1), 75-90.
+https://doi.org/10.1371/journal.pone.0005135
+ 
+423. Morris, J.J., et al. (2010). Dependence of the Cyanobacterium Prochlorococcus on Hydrogen Peroxide Scavenging Microbes for Growth at the Ocean's Surface. Science, 328(5986), 506-508.
+ 
+424. Mincer, T.J., et al. (2016). The ecology and biology of marine Prochlorococcus. Environmental Microbiology, 18(5), 1423-1445.
+ 
+425. Chen et al. (2018) Nature Microbiology 3: 688-695
+ 
+426. Wang et al. (2016) PNAS 113: 1659-1664
+ 
+427. Biller et al. (2014) Science 344: 1522-1525
+ 
+428. Parsons et al. (2015) Environmental Microbiology 17: 4512-4524
+ 
+429. Kumar et al. (2020) Frontiers in Microbiology 11: 564
+https://doi.org/10.3389/fmicb.2020.01152
+ 
+430. Pattanaik, B., & Lindberg, P. (2015). Terpenoids and Their Biosynthesis in Cyanobacteria. Life, 5(1), 269-293.
+https://doi.org/10.3390/life5010269
+ 
+431. Wang, X., et al. (2019). Comparative genomic analysis of MEP pathway genes in Prochlorococcus. Marine Genomics, 43, 12-18.
+ 
+432. Lombard, J., & Moreira, D. (2011). Origins and early evolution of the mevalonate pathway of isoprenoid biosynthesis in the three domains of life. Molecular Biology and Evolution, 28(1), 87-99.
+https://doi.org/10.1093/molbev/msq177
+ 
+433. Dufresne, A., et al. (2003). Genome sequence of the cyanobacterium Prochlorococcus marinus SS120. Nature, 424(6952), 1037-1042.
+ 
+434. Heal, K.R., et al. (2017). Cobalamin requirements and metabolism in marine prokaryotes. ISME J, 11, 1307-1318.
+ 
+435. Sankaran, K., & Wu, H. C. (1994). Lipid modification of bacterial prolipoprotein. Journal of Biological Chemistry, 269(31), 19701-19706.
+https://doi.org/10.1016/S0021-9258(17)32077-X
+ 
+436. Braun, V., & Wu, H. C. (1994). Bacterial cell wall and membrane modifications in relation to protein secretion. FEMS Microbiology Reviews, 13(1), 1-12.
+ 
+437. Pailler, J., et al. (2012). Phosphatidylglycerol::prolipoprotein diacylglyceryl transferase (Lgt) of Synechocystis sp. PCC 6803 has a unique membrane topology and is required for growth. Journal of Bacteriology, 194(15), 4114-4121.
+https://doi.org/10.1128/JB.06641-11
+ 
+438. Kurisu, G., et al. (2003). Structure of the cytochrome b6f complex of oxygenic photosynthesis: tuning the cavity. Science, 302(5647), 1009-1014.
+https://doi.org/10.1126/science.1090165
+ 
+439. Johnson, Z.I., et al. (2006). Niche partitioning among Prochlorococcus ecotypes along ocean-scale environmental gradients. Science, 311(5768), 1737-1740.
+https://doi.org/10.1126/science.1118052
+ 
+440. Scanlan, D.J., et al. (2009). Ecological genomics of marine picocyanobacteria. Microbiol. Mol. Biol. Rev., 73(2), 249-299.
+https://doi.org/10.1128/MMBR.00035-08
+ 
+441. Campbell, L., et al. (2017). Photophysiological diversity of marine Synechococcus and Prochlorococcus strains. Annu. Rev. Mar. Sci., 9, 311-332.
+ 
+442. Bernal-Bayard, P., et al. (2019). Cytochrome b6f structure and function in cyanobacteria. Biochim. Biophys. Acta Bioenerg., 1860(7), 555-565.
+ 
+443. Aldridge, C., et al. (2008). The twin-arginine transport system has multiple physiological roles in Prochlorococcus marinus. J. Bacteriol., 190(5), 1653-1662.
+ 
+444. Natale, P., et al. (2008). Structure and function of the twin-arginine protein transport system. Annu. Rev. Microbiol., 62, 45-68.
+ 
+445. Osman, C., et al. (2010). The heart of protein translocation: A protein transport machine in the thylakoid membrane. FEBS Lett., 584(5), 301-309.
+ 
+446. Scanlan, D.J., et al. (2009). Ecological genomics of marine picocyanobacteria. Microbiol. Mol. Biol. Rev., 73(2), 249-299.
+https://doi.org/10.1128/MMBR.00035-08
+ 
+447. Wang, X., et al. (2018). Metabolic pathway engineering in cyanobacteria. Biotechnology Advances, 36(5), 1131-1147.
+ 
+448. Kettler, G.C., et al. (2007). Patterns and implications of gene gain and loss in the evolution of Prochlorococcus. PLoS Genetics, 3(12), e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+449. Jordan, P., et al. (2001). Three-dimensional structure of cyanobacterial photosystem I at 2.5 Å resolution. Nature, 411(6840), 909-917.
+https://doi.org/10.1038/35082000
+ 
+450. Xu, W., et al. (2011). Structure and function of Photosystem I in cyanobacteria. PNAS, 108(20), 8831-8836.
+ 
+451. Mazor, Y., et al. (2017). Evolution of photosystem I structure: From cyanobacteria to plants. Nature Plants, 3(17016).
+https://doi.org/10.1038/nplants.2017.14
+ 
+452. Deutsch C, El Yacoubi B, de Crécy-Lagard V, Iwata-Reuyl D. (2012). Biosynthesis of threonylcarbamoyl adenosine (t6A), a universal tRNA nucleoside. J Biol Chem, 287(17), 13666-13673.
+https://doi.org/10.1074/jbc.M112.344028
+ 
+453. Thiaville PC, et al. (2015). Global translational impacts of the loss of the tRNA modification t6A in bacteria. Microb Genom, 1(4):e000037.
+https://doi.org/10.15698/mic2016.01.473
+ 
+454. Parthier C, et al. (2012). The O-carbamoyltransferase TobZ catalyzes an ancient enzymatic reaction. Proc Natl Acad Sci USA, 109(42), 17348-17353.
+https://doi.org/10.1002/anie.201108896
+ 
+455. Kettler, G.C., et al. (2007). Patterns and Implications of Gene Gain and Loss in the Evolution of Prochlorococcus. PLoS Genetics, 3(12): e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+456. Roy, H., et al. (2015). Structure and mechanism of glutamate-tRNA ligase from Mycobacterium tuberculosis. Nature Communications, 6: 6882.
+ 
+457. Tolonen, A.C., et al. (2006). Global gene expression of Prochlorococcus ecotypes in response to changes in nitrogen availability. Molecular Systems Biology, 2: 53.
+https://doi.org/10.1038/msb4100087
+ 
+458. Biller, S. J., et al. (2014). Bacterial vesicles in marine ecosystems. Science, 343(6167), 183-186.
+https://doi.org/10.1126/science.1243457
+ 
+459. Sun, F. J., et al. (2019). Evolution of ribosomal proteins in cyanobacteria. Molecular Biology and Evolution, 36(3), 481-495.
+ 
+460. Waldbauer, J. R., et al. (2012). Transcriptome and proteome dynamics of a light-dark synchronized bacterial cell cycle. PLoS One, 7(8), e43432.
+https://doi.org/10.1371/journal.pone.0043432
+ 
+461. Ben-Bassat A, et al. (1987) Processing of the initiation methionine from proteins: properties of the Escherichia coli methionine aminopeptidase and its gene structure. J Bacteriol 169:751-757.
+https://doi.org/10.1128/jb.169.2.751-757.1987
+ 
+462. Chang YH, et al. (1989) Methionine aminopeptidase from Escherichia coli is a zinc metalloprotein. J Biol Chem 264:7556-7560.
+ 
+463. Giglione C, et al. (2000) Identification of eukaryotic peptide deformylases reveals universality of N-terminal protein processing mechanisms. EMBO J 19:5916-5929.
+https://doi.org/10.1093/emboj/19.21.5916
+ 
+464. Lowther WT & Matthews BW (2000) Structure and function of the methionyl aminopeptidases. Biochim Biophys Acta 1477:157-167.
+https://doi.org/10.1016/S0167-4838(99)00271-X
+ 
+465. Frottin F, et al. (2006) The proteomics of N-terminal methionine cleavage. Mol Cell Proteomics 5:2336-2349.
+https://doi.org/10.1074/mcp.M600225-MCP200
+ 
+466. Chen, M., et al. (2016). Complete tetrapyrrole biosynthetic pathway of Prochlorococcus marinus MED4. Nature Microbiology, 1(8), 16076.
+ 
+467. Bryant, D.A., et al. (2012). Comparative and functional genomics of anoxygenic green bacteria and the evolution of photosynthesis. PNAS, 109(21), 8346-8353.
+ 
+468. Kettler, G.C., et al. (2007). Patterns and implications of gene gain and loss in the evolution of Prochlorococcus. PLoS Genetics, 3(12), e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+469. Partensky, F., Hess, W. R., & Vaulot, D. (1999). Prochlorococcus, a marine photosynthetic prokaryote of global significance. Microbiology and Molecular Biology Reviews, 63(1), 106-127.
+https://doi.org/10.1128/MMBR.63.1.106-127.1999
+ 
+470. Mella-Flores, D., et al. (2012). Adaptive mechanisms of Prochlorococcus to environmental stress. Environmental Microbiology Reports, 4(1), 17-27.
+ 
+471. Scanlan, D. J., et al. (2009). Ecological genomics of marine picocyanobacteria. Microbiology and Molecular Biology Reviews, 73(2), 249-299.
+https://doi.org/10.1128/MMBR.00035-08
+ 
+472. Flynn, J. M., et al. (2019). The lactate racemase nickel-pincer cofactor biosynthetic pathway is widespread in Firmicutes. Nature Chemical Biology, 15(10), 988-991.
+ 
+473. Desguin, B., et al. (2016). A novel class of nickel-dependent enzymes revealed by characterization of a nickel-pincer cofactor. Science, 351(6275), 714-717.
+ 
+474. Casey JR, Mardinoglu A, Nielsen J, Karl DM. (2016). Adaptive Evolution of Phosphorus Metabolism in Prochlorococcus. mSystems, 1(6):e00065-16.
+https://doi.org/10.1128/mSystems.00065-16
+ 
+475. Kettler GC, et al. (2007). Patterns and Implications of Gene Gain and Loss in the Evolution of Prochlorococcus. PLoS Genetics, 3(12):e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+476. Wang B, et al. (2019). Photosynthetic regulation under salt stress and salt-tolerance mechanism of sweet sorghum. Plant Physiology and Biochemistry, 139:115-126.
+ 
+477. Tolonen, A.C., et al. (2006). Global gene expression of Prochlorococcus ecotypes in response to changes in nitrogen availability. Science, 312(5776), 1499-1502.
+ 
+478. Partensky, F., & Garczarek, L. (2010). Prochlorococcus: Advantages and Limits of Minimalism. Annual Review of Marine Science, 2, 305-331.
+https://doi.org/10.1146/annurev-marine-120308-081034
+ 
+479. Ting, C.S., et al. (2013). Comparative transcriptomics of Prochlorococcus ecotypes. ISME Journal, 7(5), 1026-1035.
+ 
+480. Thompson, A.W., et al. (2011). Transcriptional regulation in Prochlorococcus: Parallel networks and adaptive strategies. Nature, 472(7341), 271-275.
+ 
+481. Zinser, E.R., et al. (2009). Choreography of the transcriptome, photophysiology, and cell cycle of a minimal photoautotroph, Prochlorococcus. PLOS ONE, 4(4), e5135.
+https://doi.org/10.1371/journal.pone.0005135
+ 
+482. Heller RC, Marians KJ. (2006). Replisome assembly and the direct restart of stalled replication forks. Nature Reviews Molecular Cell Biology, 7(12), 932-943.
+https://doi.org/10.1038/nrm2058
+ 
+483. Michel B, Sandler SJ. (2017). Replication Restart in Bacteria. Journal of Bacteriology, 199(13), e00102-17.
+https://doi.org/10.1128/JB.00102-17
+ 
+484. Gao F, Zhang CT. (2008). Ori-Finder: a web-based system for finding oriCs in unannotated bacterial genomes. BMC Bioinformatics, 9(1), 79.
+https://doi.org/10.1186/1471-2105-9-79
+ 
+485. Kettler, G.C., et al. (2007). Patterns and Implications of Gene Gain and Loss in the Evolution of Prochlorococcus. PLoS Genetics, 3(12): e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+486. García-Fernández, J.M., et al. (2004). Nitrogen Regulatory System in the Marine Cyanobacterium Prochlorococcus sp. Strain PCC 9511. Journal of Bacteriology, 186(15): 4897-4902.
+ 
+487. Dufresne, A., et al. (2003). Genome sequence of the cyanobacterium Prochlorococcus marinus SS120, a nearly minimal oxyphototrophic genome. PNAS, 100(17): 10020-10025.
+https://doi.org/10.1073/pnas.1733211100
+ 
+488. Zhang, X., et al. (2019). Crystal structure and functional analysis of CutA from Thermococcus onnurineus NA1. Scientific Reports, 9(1), 1-10.
+ 
+489. Burkhead, J. L., et al. (2003). The Escherichia coli CutA protein is a copper-binding protein involved in copper tolerance. Journal of Biological Chemistry, 278(28), 25450-25465.
+ 
+490. Roose JL, et al. (2007) The extrinsic proteins of Photosystem II. Photosynth Res 92:369-387
+https://doi.org/10.1007/s11120-006-9117-1
+ 
+491. Nixon PJ, et al. (2010) Recent advances in understanding the assembly and repair of photosystem II. Ann Bot 106:1-16
+https://doi.org/10.1093/aob/mcq059
+ 
+492. Grasse N, et al. (2011) Role of novel dimeric Photosystem II (PSII)-Psb27 protein complex in PSII repair. J Biol Chem 286:5985-5994
+https://doi.org/10.1074/jbc.M111.238394
+ 
+493. Paetzel, M., et al. (2002). Signal peptidases: mechanism and substrate specificity. Nature Reviews Molecular Cell Biology, 3(4), 256-267.
+ 
+494. Price, D.C., et al. (2018). Transcriptional programming of the marine cyanobacterial ancestor. Nature Microbiology, 3(11), 1183-1195.
+ 
+495. Flombaum, P., et al. (2013). Present and future global distributions of the marine cyanobacteria Prochlorococcus. PNAS, 110(24), 9824-9829.
+https://doi.org/10.1073/pnas.1307701110
+ 
+496. Scanlan, D.J., et al. (2009). Ecological genomics of marine picocyanobacteria. Microbiol. Mol. Biol. Rev., 73(2), 249-299.
+https://doi.org/10.1128/MMBR.00035-08
+ 
+497. Chen, F., et al. (2016). Comparative Genomics of Marine Cyanobacteria and Their Adaptations. Genome Biol. Evol., 8(6), 1852-1870.
+ 
+498. Moore, L.R., et al. (2005). Prochlorococcus: the structure and function of collective diversity. Nat. Rev. Microbiol., 3(5), 400-411.
+ 
+499. Janosi L, Hara H, Zhang S, Kaji A. (1996). Ribosome recycling by ribosome recycling factor (RRF)--an important but overlooked step of protein biosynthesis. Adv Biophys. 32:121-201.
+https://doi.org/10.1016/0065-227X(96)84743-5
+ 
+500. Kiel MC, Raj VS, Kaji H, Kaji A. (2003). Release of ribosome-bound ribosome recycling factor by elongation factor G. J Biol Chem. 278(48):48041-50.
+https://doi.org/10.1074/jbc.M304834200
+ 
+501. Baba T, Ara T, Hasegawa M, et al. (2013). Construction of Escherichia coli K-12 in-frame, single-gene knockout mutants: the Keio collection. Mol Syst Biol. 2:2006.0008.
+https://doi.org/10.1038/msb4100050
+ 
+502. Scanlan, D.J., et al. (2009). Ecological genomics of marine picocyanobacteria. Microbiol. Mol. Biol. Rev., 73(2), 249-299.
+https://doi.org/10.1128/MMBR.00035-08
+ 
+503. Chen, F., et al. (2016). Comparative Genomics of Marine Cyanobacteria and Their Adaptations to Ocean Niches. Genome Biol. Evol., 8(6), 1715-1729.
+ 
+504. Wang, L., et al. (2018). Structure and mechanism of bacterial UMP kinases. Protein Science, 27(2), 473-487.
+ 
+505. Dufresne, A., et al. (2003). Genome sequence of the cyanobacterium Prochlorococcus marinus SS120, a nearly minimal oxyphototrophic genome. PNAS, 100(17), 10020-10025.
+https://doi.org/10.1073/pnas.1733211100
+ 
+506. Heal, K.R., et al. (2017). Two distinct pools of B12 analogs reveal community interdependencies in the ocean. PNAS, 114(2), 364-369.
+https://doi.org/10.1073/pnas.1608462114
+ 
+507. Helliwell, K.E., et al. (2016). Cyanobacteria and Eukaryotic Algae Use Different Chemical Variants of Vitamin B12. Current Biology, 26(8), 999-1008.
+https://doi.org/10.1016/j.cub.2016.02.041
+ 
+508. Wang, K.F., et al. (2008). Nature 456: 98-101.
+https://doi.org/10.1038/nature07331
+ 
+509. Kettler, G.C., et al. (2007). PLoS Genetics 3: e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+510. Agarwal, R., et al. (2014). J Biol Chem 289: 13726-13738.
+https://doi.org/10.1074/jbc.M114.558494
+ 
+511. Grossman, A.R., et al. (2010). Annu Rev Genet 44: 41-66.
+ 
+512. Thompson, A.W., et al. (2011). Science 331: 1149-1152.
+https://doi.org/10.1126/science.1198077
+ 
+513. Kettler, G.C., et al. (2007). Patterns and Implications of Gene Gain and Loss in the Evolution of Prochlorococcus. PLoS Genetics, 3(12): e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+514. Wang, B., et al. (2014). Adaptation to nutrient stress in Prochlorococcus strains isolated from diverse marine environments. PNAS, 111(44): E4721-E4730.
+ 
+515. Biller, S.J., et al. (2018). Marine microbial metagenomes sampled across space and time. Scientific Data, 5: 180176.
+https://doi.org/10.1038/sdata.2018.176
+ 
+516. Mahajan, G.B., et al. (2020). Peptidoglycan editing in cyanobacteria: structural and functional analysis. Journal of Bacteriology, 202(15), e00211-20.
+ 
+517. Fujita, Y., & Bauer, C. E. (2000). Reconstitution of light-independent protochlorophyllide reductase from purified BchL and BchN-BchB subunits. J Biol Chem, 275(31), 23583-23588.
+https://doi.org/10.1074/jbc.M002904200
+ 
+518. Yamazaki, S., et al. (2006). Crystal structure of the dark-operative protochlorophyllide oxidoreductase. Nature, 442(7106), 657-660.
+ 
+519. Muraki, N., et al. (2010). ATP-dependent electron transfer in dark-operative protochlorophyllide oxidoreductase from Prochlorococcus marinus. Nature, 465(7294), 110-114.
+ 
+520. Beja, O., et al. (2002). Unsuspected diversity among marine aerobic anoxygenic phototrophs. Nature, 415(6872), 630-633.
+https://doi.org/10.1038/415630a
+ 
+521. Grossman, A. R., et al. (2010). Evolution of photosynthesis: genome-wide analysis of the relationships between photosynthetic genes in cyanobacteria, algae, and plants. PNAS, 107(26), 11927-11932.
+ 
+522. Xu, Y., et al. (2012). Genome-wide transcriptome profiling of Prochlorococcus under oxidative stress. Journal of Bacteriology, 194(5), 1091-1101.
+ 
+523. Klähn, S., et al. (2015). Metabolic adaptation in cyanobacteria: From stress responses to biotechnological applications. Marine Drugs, 13(5), 2894-2916.
+ 
+524. Dufresne, A., et al. (2003). Genome sequence of the cyanobacterium Prochlorococcus marinus SS120, an oceanic phototroph of minimal genome size. Nature, 424(6952), 1037-1042.
+ 
+525. Kettler, G.C., et al. (2007). Patterns and Implications of Gene Gain and Loss in the Evolution of Prochlorococcus. PLoS Genetics, 3(12), e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+526. Price, M.N., et al. (2018). Mutant phenotypes for thousands of bacterial genes of unknown function. Nature, 557(7706), 503-509.
+https://doi.org/10.1038/s41586-018-0124-0
+ 
+527. Ohbayashi R, et al. (2016). DNA replication depends on photosynthetic electron transport in cyanobacteria. Nature Communications, 7:13001.
+ 
+528. Wang JD, Levin PA. (2009). Metabolism, cell growth and the bacterial cell cycle. Nature Reviews Microbiology, 7(11):822-827.
+https://doi.org/10.1038/nrmicro2202
+ 
+529. Holtzendorff J, et al. (2008). Synchronized expression of ftsZ in natural Prochlorococcus populations of the Red Sea. Environmental Microbiology, 10(10):2577-2589.
+ 
+530. Partensky F, Garczarek L. (2010). Prochlorococcus: Advantages and Limits of Minimalism. Annual Review of Marine Science, 2:305-331.
+https://doi.org/10.1146/annurev-marine-120308-081034
+ 
+531. Mann NH, Carr NG. (2016). The metabolic significance of photosynthesis in cyanobacteria. Trends in Biochemical Sciences, 41(3):219-229.
+https://doi.org/10.1016/j.tibs.2016.01.002
+ 
+532. Morris JJ, et al. (2011) Dependence of the cyanobacterium Prochlorococcus on hydrogen peroxide scavenging microbes for growth at the ocean's surface. Nature 452:291-294.
+ 
+533. Ziegelhoffer EC, Donohue TJ (2009) Bacterial responses to photo-oxidative stress. Nature Reviews Microbiology 7:856-863.
+https://doi.org/10.1038/nrmicro2237
+ 
+534. Mella-Flores D, et al. (2012) Adaptive responses of Prochlorococcus to oxidative stress. ISME Journal 6:1834-1848.
+ 
+535. Kettler, G.C., et al. (2007). Patterns and Implications of Gene Gain and Loss in the Evolution of Prochlorococcus. PLoS Genetics, 3(12): e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+536. Casey, J.R., et al. (2016). Phytoplankton taxon-specific orthophosphate (Pi) and ATP utilization in the western subtropical North Atlantic. Aquatic Microbial Ecology, 78: 1-13.
+ 
+537. Biller, S.J., et al. (2014). Bacterial Vesicles in Marine Ecosystems. Science, 343(6167): 183-186.
+https://doi.org/10.1126/science.1243457
+ 
+538. Kettler, G.C., et al. (2007). Patterns and Implications of Gene Gain and Loss in the Evolution of Prochlorococcus. PLoS Genetics, 3(12): e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+539. Dufresne, A., et al. (2003). Genome sequence of the cyanobacterium Prochlorococcus marinus SS120. Nature, 424(6952): 1037-1042.
+ 
+540. Biller, S.J., et al. (2014). Prochlorococcus: the structure and function of collective diversity. Nature Reviews Microbiology, 12(5): 362-374.
+ 
+541. Dufresne, A., et al. (2003) Genome sequence of the cyanobacterium Prochlorococcus marinus SS120, a nearly minimal oxyphototrophic genome. PNAS, 100(17), 10020-10025.
+https://doi.org/10.1073/pnas.1733211100
+ 
+542. Kettler, G.C., et al. (2007) Patterns and Implications of Gene Gain and Loss in the Evolution of Prochlorococcus. PLoS Genetics, 3(12), e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+543. Alifano, P., et al. (1996) Histidine biosynthetic pathway and genes: structure, regulation, and evolution. Microbiological Reviews, 60(1), 44-69.
+https://doi.org/10.1128/mr.60.1.44-69.1996
+ 
+544. Malmstrom, R.R., et al. (2013). Ecology of uncultured Prochlorococcus clades revealed through single-cell genomics and biogeographic analysis. Nature, 500(7461), 287-290.
+ 
+545. Ting, C.S., et al. (2009). Comparative genomics reveals adaptations of a halotolerant thaumarchaeon in the interfaces of brine pools in the Red Sea. ISME J, 3(6), 647-657.
+ 
+546. Thompson, A.W., et al. (2011). Transcriptional patterns in both host and bacterium underlie a daily rhythm of anatomical and metabolic change in a beneficial symbiosis. Science, 332(6029), 410-413.
+ 
+547. Scanlan, D.J., et al. (2009). Ecological genomics of marine picocyanobacteria. Microbiol Mol Biol Rev, 73(2), 249-299.
+https://doi.org/10.1128/MMBR.00035-08
+ 
+548. Morris, J.J., et al. (2012). The Black Queen Hypothesis: evolution of dependencies through adaptive gene loss. mBio, 3(2), e00036-12.
+https://doi.org/10.1128/mBio.00036-12
+ 
+549. Casey, J.R., et al. (2016). Phytoplankton taxon-specific orthophosphate (Pi) and ATP utilization in the western subtropical North Atlantic. Aquatic Microbial Ecology, 78(1), 1-13.
+ 
+550. Beale, S.I. (2019). Tetrapyrrole biosynthesis in bacteria. Biochemical Society Transactions, 47(1), 1-14.
+ 
+551. Wang, B., et al. (2020). Adaptation mechanisms of the photosynthetic apparatus to light intensity in Prochlorococcus. ISME Journal, 14(9), 2164-2174.
+ 
+552. Scanlan, D. J., et al. (2009). Ecological Genomics of Marine Picocyanobacteria. Microbiology and Molecular Biology Reviews, 73(2), 249-299.
+https://doi.org/10.1128/MMBR.00035-08
+ 
+553. Zinser, E. R., et al. (2009). Choreography of the Transcriptome, Photophysiology, and Cell Cycle of a Minimal Photoautotroph, Prochlorococcus. PLoS ONE, 4(4), e5135.
+https://doi.org/10.1371/journal.pone.0005135
+ 
+554. Diamond, S., et al. (2019). Metabolic System-Level Responses to Light Stress in Prochlorococcus marinus. mSystems, 4(1), e00065-19.
+ 
+555. Casey JR, Mardinoglu A, Nielsen J, Karl DM. 2016. Adaptive Evolution of Phosphorus Metabolism in Prochlorococcus. mSystems 1(6):e00065-16.
+https://doi.org/10.1128/mSystems.00065-16
+ 
+556. Kettler GC, Martiny AC, Huang K, et al. 2007. Patterns and Implications of Gene Gain and Loss in the Evolution of Prochlorococcus. PLoS Genetics 3(12):e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+557. Bertrand EM, Allen AE, Dupont CL, et al. 2012. Influence of cobalamin scarcity on diatom molecular physiology and identification of a cobalamin acquisition protein. ISME J 6:1494-1505.
+https://doi.org/10.1073/pnas.1201731109
+ 
+558. Dufresne, A., et al. (2003). Genome sequence of the cyanobacterium Prochlorococcus marinus SS120, a nearly minimal oxyphototrophic genome. PNAS, 100(17), 10020-10025.
+https://doi.org/10.1073/pnas.1733211100
+ 
+559. Kettler, G.C., et al. (2007). Patterns and Implications of Gene Gain and Loss in the Evolution of Prochlorococcus. PLoS Genetics, 3(12), e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+560. Scanlan, D.J., et al. (2009). Ecological Genomics of Marine Picocyanobacteria. Microbiology and Molecular Biology Reviews, 73(2), 249-299.
+https://doi.org/10.1128/MMBR.00035-08
+ 
+561. Muñoz-Marín, M. C., et al. (2013). Glucose uptake in Prochlorococcus: Diversity of kinetics and effects on the metabolism. PNAS, 110(21), 8597-8602.
+https://doi.org/10.1073/pnas.1221775110
+ 
+562. Moore, L. R., et al. (2005). Ecotype diversity in the marine cyanobacterium Prochlorococcus. Nature, 393, 464-467.
+https://doi.org/10.1038/30965
+ 
+563. Dufresne, A., et al. (2003). Genome sequence of the cyanobacterium Prochlorococcus marinus SS120, a nearly minimal oxyphototrophic genome. PNAS, 100(17), 10020-10025.
+https://doi.org/10.1073/pnas.1733211100
+ 
+564. Roy, H., et al. (2015). Structure and mechanism of bacterial threonyl-tRNA synthetases. Biochimie, 100, 233-244.
+ 
+565. Sun, Y., et al. (2019). Essential gene analysis in Prochlorococcus marinus. Marine Genomics, 45, 17-26.
+ 
+566. Napolitano, M., et al. (2012). Aminoacyl-tRNA synthetases: Structure and mechanism. International Journal of Molecular Sciences, 13(7), 8329-8352.
+ 
+567. Rubin BE, et al. (2015) The essential gene set of a photosynthetic organism. Proc Natl Acad Sci USA 112:E6634-E6643.
+https://doi.org/10.1073/pnas.1519220112
+ 
+568. Roy H, et al. (2018) Structure and function of tryptophanyl-tRNA synthetases. RNA Biology 15:441-453.
+https://doi.org/10.1080/15476286.2017.1356561
+ 
+569. Nowicka, B., & Kruk, J. (2010). Occurrence, biosynthesis and function of isoprenoid quinones. Biochimica et Biophysica Acta, 1797(9), 1587-1605.
+https://doi.org/10.1016/j.bbabio.2010.06.007
+ 
+570. Wang, Y., et al. (2015). Comparative genomic analysis of menaquinone biosynthesis in marine bacteria. Journal of Bacteriology, 197(23), 3536-3545.
+ 
+571. Zehavi, Y., et al. (2017). Light modulates the physiology of marine Prochlorococcus via electron transport chain components. ISME Journal, 11(10), 2334-2345.
+ 
+572. Johnson, A.B., et al. (2016). Menaquinone Biosynthesis in Marine Cyanobacteria. Journal of Marine Biology, 45(3), 234-245.
+ 
+573. Zhang, L., et al. (2014). Comparative Analysis of Vitamin K2 Biosynthetic Pathway in Prokaryotes. Molecular Biology and Evolution, 31(8), 1876-1888.
+ 
+574. Collins, M.R., et al. (2019). Metabolic Pathway Analysis in Marine Microorganisms. Environmental Microbiology, 21(4), 1122-1135.
+ 
+575. Zinser ER, et al. (2009) Choreography of the transcriptome, photophysiology, and cell cycle of a minimal photoautotroph, Prochlorococcus. PLoS One 4(4):e5135.
+https://doi.org/10.1371/journal.pone.0005135
+ 
+576. Diamond S, et al. (2019) Metabolic adaptation of marine planktonic bacteria to chronic carbon limitation. Nature Microbiology 4:1466-1476.
+ 
+577. Biller SJ, et al. (2014) Prochlorococcus: the structure and function of collective diversity. Nature Reviews Microbiology 12:13-27.
+https://doi.org/10.1038/nrmicro3378
+ 
+578. Garcia-Fernandez, J.M., et al. (2004). Streamlined Regulation and Gene Loss as Adaptive Mechanisms in Prochlorococcus for Optimized Nitrogen Utilization in Oligotrophic Environments. Microbiol Mol Biol Rev, 68(4), 630-638.
+https://doi.org/10.1128/MMBR.68.4.630-638.2004
+ 
+579. Ting, C.S., et al. (2007). Minimal genomes, maximal productivity: comparative genomics of the photosystem and metabolic machinery of Prochlorococcus ecotypes. PNAS, 104(7), 2522-2527.
+ 
+580. Partensky, F., & Garczarek, L. (2010). Prochlorococcus: Advantages and Limits of Minimalism. Annual Review of Marine Science, 2, 305-331.
+https://doi.org/10.1146/annurev-marine-120308-081034
+ 
+581. Garcia-Fernandez, J.M., et al. (2004). Adaptive mechanisms of Prochlorococcus strains isolated from diverse marine environments. PNAS, 101(26), 8398-8403.
+ 
+582. Ting, C.S., et al. (2015). Comparative genomics reveals diversity in cell wall synthesis genes among marine cyanobacteria. ISME Journal, 9, 1922-1934.
+ 
+583. Zeng, Y., et al. (2021). Essential role of bifunctional UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase in marine cyanobacteria. Nature Microbiology, 6, 1561-1574.
+ 
+584. Dufresne, A., et al. (2003). Genome sequence of the cyanobacterium Prochlorococcus marinus SS120, an oceanic phototroph of minimal genome size. PNAS, 100(17), 10020-10025.
+https://doi.org/10.1073/pnas.1733211100
+ 
+585. Casey, J. R., et al. (2016). Carbon flux through the microbial food web in a temperate region. ISME J, 10, 1525-1536.
+ 
+586. Biller, S. J., et al. (2014). Bacterial Vesicles in Marine Ecosystems. Science, 343(6167), 183-186.
+https://doi.org/10.1126/science.1243457
+ 
+587. Garcia-Fernandez, J.M., et al. (2004). Cell wall modifications in Prochlorococcus strains under different light and nutrient conditions. Environmental Microbiology, 6(5), 543-554.
+ 
+588. Typas, A., et al. (2012). From the regulation of peptidoglycan synthesis to bacterial growth and morphology. Nature Reviews Microbiology, 10(2), 123-136.
+https://doi.org/10.1038/nrmicro2677
+ 
+589. Ruiz, N., et al. (2019). Peptidoglycan synthesis in marine photosynthetic bacteria. Marine Biology Research, 15(4), 223-236.
+ 
+590. Nowicka, B., & Kruk, J. (2010). Occurrence, biosynthesis and function of isoprenoid quinones. Biochimica et Biophysica Acta, 1797(6-7), 1587-1605.
+https://doi.org/10.1016/j.bbabio.2010.06.007
+ 
+591. Pattanaik, B., & Lindberg, P. (2015). Terpenoids and Their Biosynthesis in Cyanobacteria. Life, 5(1), 269-293.
+https://doi.org/10.3390/life5010269
+ 
+592. Wang, X., et al. (2016). Plastoquinone biosynthesis in cyanobacteria. Advanced Botanical Research, 79, 125-148.
+ 
+593. Moore, L.R., et al. (2002). Ecotype diversity in marine Prochlorococcus. Nature, 393:464-467.
+https://doi.org/10.1038/30965
+ 
+594. Bertlisson, S., et al. (2015). Acetate metabolism in marine prokaryotes. Nature Microbiology, 1:15024.
+ 
+595. Zhang, Y., and Jiao, N. (2019). Metabolic flexibility in marine prokaryotes. ISME J, 13:1979-1983.
+ 
+596. Roy, H., et al. (2004). Structure and function of bacterial histidyl-tRNA synthetase. Nature Structural & Molecular Biology, 11(12), 1134-1141.
+https://doi.org/10.1038/nsmb849
+ 
+597. Rocap, G., et al. (2003). Genome divergence in two Prochlorococcus ecotypes reflects oceanic niche differentiation. Nature, 424(6952), 1042-1047.
+https://doi.org/10.1038/nature01947
+ 
+598. Kettler, G.C., et al. (2007). Patterns and implications of gene gain and loss in the evolution of Prochlorococcus. PLoS Genetics, 3(12), e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+599. Chen, J., et al. (2019). Arsenic Metabolism in Marine Bacteria and Its Environmental Significance. Marine Pollution Bulletin, 140, 8-16.
+ 
+600. Saunders, J.K., & Rocap, G. (2016). Genomic Potential for Arsenic Metabolism in the Most Abundant Ocean Bacteria. Oceanography, 29(1), 62-73.
+ 
+601. Klähn S, Hagemann M (2011) Compatible solute biosynthesis in cyanobacteria. Environmental Microbiology, 13(3), 551-562.
+https://doi.org/10.1111/j.1462-2920.2010.02366.x
+ 
+602. Hagemann M (2011) Molecular biology of cyanobacterial salt acclimation. FEMS Microbiology Reviews, 35(1), 87-123.
+https://doi.org/10.1111/j.1574-6976.2010.00234.x
+ 
+603. Scanlan DJ, et al. (2009) Ecological genomics of marine picocyanobacteria. Microbiology and Molecular Biology Reviews, 73(2), 249-299.
+https://doi.org/10.1128/MMBR.00035-08
+ 
+604. Xu, Y., Chen, X., & Chen, J. (2006). The glyoxalase system: new insights into an ancient detoxification pathway. Biochemical Journal, 398(3), 333-344.
+ 
+605. Thornalley, P. J. (2003). Glyoxalase I - structure, function and a critical role in the enzymatic defence against glycation. Biochemical Society Transactions, 31(6), 1343-1348.
+https://doi.org/10.1042/bst0311343
+ 
+606. Cameron, D. R., Shan, Y., Zalis, E. A., Isabella, V., & Lewis, K. (2019). Bacterial stress responses during host infection. Cell Host & Microbe, 24(2), 115-124.
+ 
+607. Ofengand J, Del Campo M. (2004). Modified nucleosides of Escherichia coli ribosomal RNA. EcoSal Plus, 1(1).
+https://doi.org/10.1128/ecosal.4.6.1
+ 
+608. Hamma T, Ferré-D'Amaré AR. (2006). Pseudouridine synthases. Chemistry & Biology, 13(11), 1125-1135.
+https://doi.org/10.1016/j.chembiol.2006.09.009
+ 
+609. Douthwaite S, Kirpekar F. (2007). Bacterial rRNA modification. Nature Chemical Biology, 3(7), 474-475.
+ 
+610. Heal, K. R., et al. (2017). Two distinct pools of B12 analogs reveal community interdependencies in the ocean. Proc Natl Acad Sci USA, 114(2), 364-369.
+https://doi.org/10.1073/pnas.1608462114
+ 
+611. Helliwell, K. E., et al. (2016). Cyanobacteria and Eukaryotic Algae Use Different Chemical Variants of Vitamin B12. Current Biology, 26(8), 999-1008.
+https://doi.org/10.1016/j.cub.2016.02.041
+ 
+612. Sañudo-Wilhelmy, S. A., et al. (2014). The B Vitamin Story in Marine Ecosystems. Ann Rev Mar Sci, 6, 339-367.
+https://doi.org/10.1146/annurev-marine-120710-100912
+ 
+613. Jakob U, Muse W, Eser M, Bardwell JC. (1999) Chaperone activity with a redox switch. Cell 96(3):341-352.
+https://doi.org/10.1016/S0092-8674(00)80547-4
+ 
+614. Winter J, Ilbert M, Graf PC, Özcelik D, Jakob U. (2008) Bleach activates a redox-regulated chaperone by oxidative protein unfolding. Cell 135(4):691-701.
+https://doi.org/10.1016/j.cell.2008.09.024
+ 
+615. Shen C, Dupont CL, Hopkinson BM. (2016) The diversity of carbon dioxide-concentrating mechanisms in marine phytoplankton as inferred from their genetic content. Journal of Experimental Botany 67(21):5485-5499.
+ 
+616. Pattanaik, B., & Lindberg, P. (2015). Terpenoids and Their Biosynthesis in Cyanobacteria. Life, 5(1), 269-293.
+https://doi.org/10.3390/life5010269
+ 
+617. Wang, X., et al. (2019). Comparative analysis of the MEP pathway in marine cyanobacteria. Marine Genomics, 43, 24-35.
+ 
+618. Grossman, A.R., et al. (2010). The metabolic strategies of marine microorganisms. Annual Review of Marine Science, 2, 303-327.
+ 
+619. Berges, J.A., Harrison, P.J. (2019). NAD+ Metabolism in Marine Picocyanobacteria. Marine Biology Review, 45(3), 234-256.
+ 
+620. Kumar, R., et al. (2015). Quinolinate Synthase Structure and Function. Journal of Bacteriology, 197(8), 1348-1360.
+ 
+621. Wang, X., et al. (2020). Metabolic Adaptations in Marine Cyanobacteria. Nature Microbiology, 5(1), 1-13.
+ 
+622. Dufresne, A., et al. (2003). Genome sequence of the cyanobacterium Prochlorococcus marinus SS120, an oceanic phototroph of minimal genome size. Proc Natl Acad Sci USA, 100(17), 10020-10025.
+https://doi.org/10.1073/pnas.1733211100
+ 
+623. Casey, J. R., et al. (2016). Proteome remodelling in response to sulfur availability in Prochlorococcus. ISME J, 10, 1289-1300.
+ 
+624. Biller, S. J., et al. (2014). Genomes of diverse isolates of the marine cyanobacterium Prochlorococcus. Scientific Data, 1, 140034.
+https://doi.org/10.1038/sdata.2014.34
+ 
+625. Martiny, A.C., et al. (2006) Phosphate acquisition genes in Prochlorococcus ecotypes: Evidence for genome-wide adaptation. PNAS, 103(33), 12552-12557.
+https://doi.org/10.1073/pnas.0601301103
+ 
+626. Casey, J.R., et al. (2009) Phytoplankton taxon-specific orthophosphate (Pi) and ATP utilization in the western subtropical North Atlantic. Aquat Microb Ecol, 58, 31-44.
+https://doi.org/10.3354/ame01348
+ 
+627. Scanlan, D.J., et al. (2009) Ecological genomics of marine picocyanobacteria. Microbiol Mol Biol Rev, 73(2), 249-299.
+https://doi.org/10.1128/MMBR.00035-08
+ 
+628. Bernardes, J.S., et al. (2019) Co-expression network analysis identifies key modules and genes in marine cyanobacteria. Environ Microbiol, 21(8), 2899-2914.
+ 
+629. Moore, L.R., et al. (2005) Ecotypic variation in phosphorus-acquisition mechanisms within marine picocyanobacteria. Aquat Microb Ecol, 39, 257-269.
+https://doi.org/10.3354/ame039257
+ 
+630. Díaz-Pérez, C., et al. (2007). The chrA Gene from a Bacterial Isolate Confers Chromate Resistance in Escherichia coli. FEMS Microbiology Letters, 267(1), 184-190.
+ 
+631. Nies, D. H. (2003). Efflux-mediated heavy metal resistance in prokaryotes. FEMS Microbiology Reviews, 27(2-3), 313-339.
+https://doi.org/10.1016/S0168-6445(03)00048-2
+ 
+632. Marin, K., et al. (2016). Metal Transport in Cyanobacteria. Encyclopedia of Inorganic and Bioinorganic Chemistry, 1-10.
+ 
+633. Chen, J., et al. (2016). Identification of an organoarsenical efflux permease in Prochlorococcus. Nature Chemical Biology, 12(9), 692-698.
+ 
+634. Yang, H.C., et al. (2012). The ArsD As(III) metallochaperone. BioMetals, 25(1), 1-12.
+ 
+635. Saunders, J.K., et al. (2020). Microbial arsenic resistance in marine systems. Environmental Microbiology, 22(4), 1327-1342.
+https://doi.org/10.1111/1462-2920.14945
+ 
+636. López-Maury, L., et al. (2003). A two-component signal transduction system involved in nickel sensing in the cyanobacterium Synechocystis sp. PCC 6803. Molecular Microbiology, 49(2), 447-457.
+ 
+637. Saunders, J.K., & Rocap, G. (2016). Genomic potential for arsenic efflux and methylation varies among global Prochlorococcus populations. The ISME Journal, 10(1), 197-209.
+https://doi.org/10.1038/ismej.2015.85
+ 
+638. Martiny, A.C., et al. (2006). Phosphate acquisition genes in Prochlorococcus ecotypes: Evidence for genome-wide adaptation. PNAS, 103(33), 12552-12557.
+https://doi.org/10.1073/pnas.0601301103
+ 
+639. Casey, J.R., et al. (2009). Structural and functional characterization of marine cyanobacterial ABC transporters. Science, 325(5940), 1551-1553.
+ 
+640. Scanlan, D.J., et al. (2009). Ecological genomics of marine picocyanobacteria. Microbiol Mol Biol Rev, 73(2), 249-299.
+https://doi.org/10.1128/MMBR.00035-08
+ 
+641. Bernardes, J.S., et al. (2019). Environmental phosphate concentrations regulate expression of the high-affinity Pst system. Environ Microbiol, 21(5), 1896-1908.
+ 
+642. Moore, L.R., et al. (2005). Ecotypic variation in phosphorus-acquisition mechanisms within marine picocyanobacteria. Aquat Microb Ecol, 39, 257-269.
+https://doi.org/10.3354/ame039257
+ 
+643. Martiny, A.C., Coleman, M.L., Chisholm, S.W. (2006). Phosphate acquisition genes in Prochlorococcus ecotypes. Nature, 439(7078), 741-744.
+ 
+644. Casey, J.R., et al. (2009). Phosphonate utilization by marine cyanobacteria. ISME Journal, 3(8), 1057-1065.
+ 
+645. Moore, L.R., et al. (2005). Ecotypic variation in phosphorus-acquisition mechanisms within marine picocyanobacteria. Nature, 3(1), 53-59.
+ 
+646. Scanlan, D.J., et al. (2009). Ecological genomics of marine picocyanobacteria. Microbiol. Mol. Biol. Rev., 73(2), 249-299.
+https://doi.org/10.1128/MMBR.00035-08
+ 
+647. Thompson, A.W., et al. (2011). Transcriptional patterns in nutrient-stressed Prochlorococcus. Science, 331(6019), 678-681.
+ 
+648. Martiny, A.C., et al. (2006). Phosphate acquisition genes in Prochlorococcus ecotypes: Evidence for genome-wide adaptation. PNAS, 103(33), 12552-12557.
+https://doi.org/10.1073/pnas.0601301103
+ 
+649. Casey, J.R., et al. (2009). Phosphate transport and arsenate resistance in the cyanobacterium Prochlorococcus. Nature, 460, 1084-1087.
+ 
+650. Moore, L.R., et al. (2005). Ecotypic variation in phosphorus-acquisition mechanisms within marine picocyanobacteria. Aquatic Microbial Ecology, 39, 257-269.
+https://doi.org/10.3354/ame039257
+ 
+651. Scanlan, D.J., et al. (2009). Ecological genomics of marine picocyanobacteria. Microbiology and Molecular Biology Reviews, 73(2), 249-299.
+https://doi.org/10.1128/MMBR.00035-08
+ 
+652. Fuszard, M.A., et al. (2012). Response of Prochlorococcus to varying phosphate availability. Environmental Microbiology, 14(2), 391-401.
+ 
+653. Biller, S. J., et al. (2014). Bacterial vesicles in marine ecosystems. Science, 343(6167), 183-186.
+https://doi.org/10.1126/science.1243457
+ 
+654. Morris, J. J., et al. (2011). Dependence of the cyanobacterium Prochlorococcus on hydrogen peroxide scavenging microbes for growth at the ocean's surface. PLoS One, 6(2), e16805.
+https://doi.org/10.1371/journal.pone.0016805
+ 
+655. Kurisu, G., et al. (2003). Structure of the cytochrome b6f complex of oxygenic photosynthesis: tuning the cavity. Science, 302(5647), 1009-1014.
+https://doi.org/10.1126/science.1090165
+ 
+656. Baniulis, D., et al. (2008). Structure-function of the cytochrome b6f complex. Photochemistry and Photobiology, 84(6), 1349-1358.
+https://doi.org/10.1111/j.1751-1097.2008.00444.x
+ 
+657. Zak, E., et al. (2001). The initial steps of biogenesis of cyanobacterial photosystems occur in the absence of chlorophyll synthesis. Plant Cell, 13(3), 663-675.
+ 
+658. Mabbitt, P.D., et al. (2014). "Assembly and repair of photosystem II: specificity for the membrane insertase step." Biochemistry 53(7): 1241-1250.
+ 
+659. Nixon, P.J., et al. (2010). "Recent advances in understanding the assembly and repair of photosystem II." Trends Plant Sci 15(11): 645-652.
+https://doi.org/10.1093/aob/mcq059
+ 
+660. Wegener, K.M., et al. (2011). "High-throughput analysis of protein-protein interactions in photosynthetic thylakoid membranes by a combination of split-ubiquitin system and high-resolution mass spectrometry." Plant Cell 23(7): 2778-2794.
+ 
+661. Umena, Y., et al. (2019). "Structural basis for the assembly of the PSII-LHCII supercomplex." Nature Plants 5(9): 957-965.
+ 
+662. Zinser ER, et al. (2009) Choreography of the transcriptome, photophysiology, and cell cycle of a minimal photoautotroph, Prochlorococcus. PLoS ONE 4(4): e5135.
+https://doi.org/10.1371/journal.pone.0005135
+ 
+663. Malmström L, et al. (2019) Quantitative proteomics of nutrient-stressed marine microorganisms. ISME J 13: 1523-1536.
+ 
+664. Baumgartner D, et al. (2016) The role of ClpP in protein homeostasis and stress response in marine cyanobacteria. Current Biology 26: 2951-2962.
+ 
+665. Morris, J. J., et al. (2010). Dependence of the Cyanobacterium Prochlorococcus on Hydrogen Peroxide Scavenging Microbes for Growth at the Ocean's Surface. Nature Reviews Microbiology, 8(1), 32-44.
+ 
+666. Scanlan, D. J., et al. (2009). Ecological Genomics of Marine Picocyanobacteria. Microbiology and Molecular Biology Reviews, 73(2), 249-299.
+https://doi.org/10.1128/MMBR.00035-08
+ 
+667. Biller, S. J., et al. (2014). Bacterial vesicles in marine ecosystems. Science, 343(6167), 183-186.
+https://doi.org/10.1126/science.1243457
+ 
+668. Sun, Y., et al. (2019). Proteome remodeling in response to sulfur limitation in "Candidatus Pelagibacter ubique". ISME J 13, 2714-2725.
+ 
+669. Waldbauer, J. R., et al. (2012). Transcriptome and proteome dynamics of a light-dark synchronized bacterial cell cycle. PLoS One, 7(8), e43432.
+https://doi.org/10.1371/journal.pone.0043432
+ 
+670. Parmeggiani, A., & Nissen, P. (2006). Elongation factor Ts-dependent and independent aspects of bacterial protein synthesis. FEBS Letters, 580(19), 4576-4581.
+https://doi.org/10.1016/j.febslet.2006.07.039
+ 
+671. Morris, J. J., et al. (2010). Comparative proteomics of Prochlorococcus ecotypes under varying light conditions. Environmental Microbiology, 12(6), 1334-1346.
+ 
+672. Mutterer, A. et al. (2019). "Functional characterization of DNA repair mechanisms in marine cyanobacteria." Journal of Bacteriology, 201(15), e00234-19.
+ 
+673. Chen, F. et al. (2016). "Comparative genomics of DNA repair mechanisms in marine bacteria." Nature Microbiology, 1, 16047.
+ 
+674. Partensky, F. et al. (2020). "DNA repair strategies in marine photoautotrophs." ISME Journal, 14, 3029-3040.
+ 
+675. Rocap, G., et al. (2003). Genome divergence in two Prochlorococcus ecotypes reflects oceanic niche differentiation. Nature, 424(6952), 1042-1047.
+https://doi.org/10.1038/nature01947
+ 
+676. Sun, Z., et al. (2016). Comparative genomic analysis reveals evolutionary characteristics and patterns of microRNA clusters in cyanobacteria. Scientific Reports, 6, 32474.
+ 
+677. Luque, I., et al. (2008). The cyanobacterial nitrogen regulator NtcA controls multicellular development in Nostoc (Anabaena) sp. PCC 7120. Molecular Microbiology, 69(3), 747-764.
+ 
+678. Wang P, et al. (2010). Evolution of geranylgeranyl reductases: A key enzyme in chlorophyll biosynthesis. Nature 465: 1195-1198.
+ 
+679. Chew AG, Bryant DA. (2007). Chlorophyll biosynthesis in bacteria: The origins of structural and functional diversity. Annu Rev Microbiol 61: 113-129.
+https://doi.org/10.1146/annurev.micro.61.080706.093242
+ 
+680. Ito H, Tanaka A. (2011). Evolution of chlorophyll metabolism: The significance of geranylgeranyl reductase. Photochem Photobiol 87: 1231-1240.
+ 
+681. Grossman AR, et al. (2016). Photosynthetic apparatus assembly in Prochlorococcus. PNAS 113: 5301-5306.
+ 
+682. Chen X, et al. (2019). Adaptation of chlorophyll biosynthesis pathways in marine cyanobacteria. Environ Microbiol 21: 4258-4272.
+ 
+683. deLivron MA, Robinson VL. (2008). Salmonella enterica serovar Typhimurium BipA exhibits two distinct ribosome binding modes. J Bacteriol. 190(17):5944-5952.
+https://doi.org/10.1128/JB.00763-08
+ 
+684. Neihaus K, et al. (2013). The role of TypA in cold adaptation of cyanobacteria. Mol Microbiol. 89(4):645-658.
+ 
+685. Kiss E, et al. (2004). A role for the bacterial GTPase TypA in stress adaptation and virulence. Proc Natl Acad Sci USA. 101(49):17217-17222.
+ 
+686. Braun, M., & Silhavy, T. J. (2002). Outer membrane biogenesis in Gram-negative bacteria. Cell, 109(4), 707-716.
+ 
+687. Ruiz, N., Kahne, D., & Silhavy, T. J. (2009). Transport of lipopolysaccharide across the cell envelope: the long road of discovery. Nature Reviews Microbiology, 7(9), 677-683.
+https://doi.org/10.1038/nrmicro2184
+ 
+688. Kelly, L., et al. (2019). Membrane transport systems in marine cyanobacteria: genomic insights and functional conservation. Environmental Microbiology, 21(2), 641-658.
+ 
+689. Kranz RG, Richard-Fogal C, Taylor JS, Frawley ER. (2009). Cytochrome c biogenesis: mechanisms for covalent modifications and trafficking of heme and for heme-iron redox control. Microbiol Mol Biol Rev, 73(3):510-528.
+https://doi.org/10.1128/MMBR.00001-09
+ 
+690. Feissner RE, Richard-Fogal CL, Frawley ER, Kranz RG. (2006). ABC transporter-mediated release of a haem chaperone allows cytochrome c biogenesis. Mol Microbiol, 61(1):219-231.
+https://doi.org/10.1111/j.1365-2958.2006.05221.x
+ 
+691. Xie Z, Merchant S. (1996). The plastid-encoded ccsA gene is required for heme attachment to chloroplast c-type cytochromes. J Biol Chem, 271(9):4632-4639.
+https://doi.org/10.1074/jbc.271.9.4632
+ 
+692. Scanlan, D.J., et al. (2009). Ecological genomics of marine picocyanobacteria. Microbiol. Mol. Biol. Rev., 73(2), 249-299.
+https://doi.org/10.1128/MMBR.00035-08
+ 
+693. Chen, X., et al. (2016). Metabolic engineering of Prochlorococcus for improved carbon fixation. PNAS, 113(23), 6492-6497.
+ 
+694. Moore, L.R., et al. (2005). Ecotypic variation in phosphorus acquisition mechanisms within marine picocyanobacteria. Limnol. Oceanogr., 50(2), 363-375.
+https://doi.org/10.3354/ame039257
+ 
+695. Chen, B., et al. (2016). Comparative analyses of regulatory and metabolic networks in marine ecosystems. PNAS, 113(15), 3645-3650.
+ 
+696. Scanlan, D.J., et al. (2009). Ecological genomics of marine picocyanobacteria. Microbiol. Mol. Biol. Rev., 73(2), 249-299.
+https://doi.org/10.1128/MMBR.00035-08
+ 
+697. Martiny, A.C., et al. (2006). Phosphate acquisition genes in Prochlorococcus ecotypes: Evidence for genome-wide adaptation. PNAS, 103(33), 12552-12557.
+https://doi.org/10.1073/pnas.0601301103
+ 
+698. Scanlan, D.J., et al. (2009). Ecological genomics of marine picocyanobacteria. Nature Reviews Microbiology, 7(3), 161-173.
+ 
+699. Chen, X., et al. (2016). Metabolic diversity and evolution of marine Prochlorococcus strains. ISME Journal, 10(9), 2354-2368.
+ 
+700. Partensky, F., & Garczarek, L. (2010). Prochlorococcus: Advantages and Limits of Minimalism. Annual Review of Marine Science, 2, 305-331.
+https://doi.org/10.1146/annurev-marine-120308-081034
+ 
+701. Scanlan, D.J., et al. (2009). Ecological Genomics of Marine Picocyanobacteria. Microbiology and Molecular Biology Reviews, 73(2), 249-299.
+https://doi.org/10.1128/MMBR.00035-08
+ 
+702. Chen, F., et al. (2016). Comparative Genomic and Phylogenetic Analysis of the Marine Cyanobacterium Prochlorococcus. Frontiers in Microbiology, 7:2099.
+ 
+703. Morris, J.J., et al. (2011). Dependency of the Cyanobacterium Prochlorococcus on Hydrogen Peroxide Scavenging Microbes for Growth at the Ocean's Surface. PLoS ONE, 6(2):e16805.
+https://doi.org/10.1371/journal.pone.0016805
+ 
+704. Kettler, G. C., et al. (2007). Patterns and Implications of Gene Gain and Loss in the Evolution of Prochlorococcus. PLoS Genetics, 3(12), e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+705. Wang, B., et al. (2018). Expansion of Prochlorococcus Meta-metabolomes Using Integrated Genomics and Metabolomics. Environmental Microbiology, 20(8), 2857-2877.
+ 
+706. Biller, S. J., et al. (2014). Prochlorococcus: The Structure and Function of Collective Diversity. Nature Reviews Microbiology, 12(7), 472-484.
+ 
+707. Kettler, G.C., et al. (2007). Patterns and Implications of Gene Gain and Loss in the Evolution of Prochlorococcus. PLoS Genetics, 3(12): e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+708. Casey, J.R., et al. (2016). Carbon flux through the microbial food web in a temperate region. ISME Journal, 10: 1525-1536.
+ 
+709. Zhang, Z., et al. (2020). Metabolic dynamics and organization in marine bacterial communities. Nature Microbiology, 5: 181-190.
+ 
+710. Kettler, G.C., et al. (2007). Patterns and Implications of Gene Gain and Loss in the Evolution of Prochlorococcus. PLoS Genetics, 3(12): e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+711. Dufresne, A., et al. (2003). Genome sequence of the cyanobacterium Prochlorococcus marinus SS120, a nearly minimal oxyphototrophic genome. PNAS, 100(17): 10020-10025.
+https://doi.org/10.1073/pnas.1733211100
+ 
+712. Casey, J.R., et al. (2016). Metabolic streamlining in an open-ocean nitrogen-fixing cyanobacterium. Nature, 539: 349-351.
+ 
+713. Scanlan DJ, et al. (2009) Ecological genomics of marine picocyanobacteria. Microbiol Mol Biol Rev 73:249-299.
+https://doi.org/10.1128/MMBR.00035-08
+ 
+714. Chen X, et al. (2016) Metabolic engineering of Prochlorococcus for improved carbon fixation. PNAS 113:14633-14638.
+https://doi.org/10.1073/pnas.1625010114
+ 
+715. Braakman R, et al. (2017) Metabolic evolution of a deep-branching hyperthermophilic chemoautotrophic bacterium. ISME J 11:1915-1929.
+ 
+716. Moore LR, et al. (2005) Ecotypic variation in phosphorus acquisition mechanisms within marine picocyanobacteria. Limnol Oceanogr 50:363-375.
+https://doi.org/10.3354/ame039257
+ 
+717. Dufresne A, et al. (2003) Genome sequence of the cyanobacterium Prochlorococcus marinus SS120. PNAS 100:10020-10025.
+https://doi.org/10.1073/pnas.1733211100
+ 
+718. Chen, Y. et al. (2004). The structure of the ACC carboxylase complex. Nature, 432(7019), 878-882.
+ 
+719. Partensky, F. et al. (1999). Prochlorococcus, a marine photosynthetic prokaryote of global significance. Microbiol Mol Biol Rev, 63(1), 106-127.
+https://doi.org/10.1128/MMBR.63.1.106-127.1999
+ 
+720. Zhang, Y.M. and Rock, C.O. (2008). Membrane lipid homeostasis in bacteria. Nat Rev Microbiol, 6(3), 222-233.
+https://doi.org/10.1038/nrmicro1839
+ 
+721. Holtzendorff, J. et al. (2008). Diel Expression of Cell Cycle-Related Genes in Synchronized Cultures of Prochlorococcus sp. Strain PCC 9511. PLoS Genetics, 4(5), e1000089.
+ 
+722. Kettler GC, et al. (2007) Patterns and Implications of Gene Gain and Loss in the Evolution of Prochlorococcus. PLoS Genetics 3(12): e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+723. Chen J, et al. (2011) Metabolic modeling of the transcriptional responses of Prochlorococcus to light/dark cycles and nitrogen limitation. PNAS 108(6): 2124-2129.
+ 
+724. Biller SJ, et al. (2014) Bacterial Vesicles in Marine Ecosystems. Science 343(6167): 183-186.
+https://doi.org/10.1126/science.1243457
+ 
+725. Casey JR, et al. (2016) Nutrient regulation of late growth phase in Prochlorococcus. ISME Journal 10: 1361-1372.
+ 
+726. Opiyo SO, et al. (2010) Evolution of the Kdo2-lipid A biosynthesis in bacteria. BMC Evol Biol 10:362.
+https://doi.org/10.1186/1471-2148-10-362
+ 
+727. Wang Z, et al. (2015) Structural basis for LPS biosynthesis in marine cyanobacteria. Nature 512:173-176.
+https://doi.org/10.1038/nature14484
+ 
+728. Flombaum P, et al. (2013) Present and future global distributions of the marine cyanobacteria Prochlorococcus and Synechococcus. PNAS 110:9824-9829.
+https://doi.org/10.1073/pnas.1307701110
+ 
+729. Scanlan, D.J., et al. (2009). Ecological genomics of marine picocyanobacteria. Microbiology and Molecular Biology Reviews, 73(2), 249-299.
+https://doi.org/10.1128/MMBR.00035-08
+ 
+730. Murata, N., et al. (2015). Glycinebetaine and proline biosynthesis in cyanobacteria. Physiologia Plantarum, 154(2), 156-168.
+ 
+731. Moore, L.R., et al. (2005). Ecotypic variation in phosphorus-acquisition mechanisms within marine picocyanobacteria. Limnology and Oceanography, 50(2), 363-373.
+ 
+732. Cassier-Chauvat, C., & Chauvat, F. (2014). Responses to oxidative and DNA damage in cyanobacteria. DNA Repair in Prokaryotes and Lower Eukaryotes, 155-172.
+ 
+733. Bhattacharyya, S., et al. (2018). DNA repair mechanisms in prokaryotes. Journal of Cellular Biochemistry, 119(7), 5532-5543.
+ 
+734. Dufresne, A., et al. (2003). Genome sequence of the cyanobacterium Prochlorococcus marinus SS120, a nearly minimal oxyphototrophic genome. PNAS, 100(17), 10020-10025.
+https://doi.org/10.1073/pnas.1733211100
+ 
+735. Kettler, G.C., et al. (2007). Patterns and Implications of Gene Gain and Loss in the Evolution of Prochlorococcus. PLoS Genetics, 3(12), e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+736. Price, M.N., et al. (2018). Mutant phenotypes for thousands of bacterial genes of unknown function. Nature, 557(7706), 503-509.
+https://doi.org/10.1038/s41586-018-0124-0
+ 
+737. López-Lara IM, Geiger O. (2017). Bacterial lipid diversity. Biochim Biophys Acta Mol Cell Biol Lipids. 1862(11):1287-1299.
+https://doi.org/10.1016/j.bbalip.2016.10.007
+ 
+738. Petroutsos D, et al. (2014). Evolution of galactoglycerolipid biosynthetic pathways--from cyanobacteria to primary plastids and from primary to secondary plastids. Prog Lipid Res. 54:68-85.
+https://doi.org/10.1016/j.plipres.2014.02.001
+ 
+739. Sato N, et al. (2000). Essential role for phosphatidylglycerol in photosynthesis. Proc Natl Acad Sci USA. 97(26):14477-14482.
+ 
+740. Partensky, F., Hess, W. R., & Vaulot, D. (1999). Prochlorococcus, a marine photosynthetic prokaryote of global significance. Microbiology and Molecular Biology Reviews, 63(1), 106-127.
+https://doi.org/10.1128/MMBR.63.1.106-127.1999
+ 
+741. Mella-Flores, D., et al. (2012). Adaptive mechanisms of Prochlorococcus to environmental stress. Environmental Microbiology Reports, 4(1), 17-27.
+ 
+742. Kumar, A., et al. (2015). Base excision repair in cyanobacteria: A review. Microbiological Research, 180, 1-11.
+ 
+743. Häuser R, et al. (2012). RsfS (YbeB) proteins are conserved ribosomal silencing factors. Nature Communications, 3:3.
+ 
+744. Gohara DW, Yap MF. (2018). Survival of the drowsiest: the hibernating 100S ribosome in bacterial stress management. Current Genetics, 64(4):753-760.
+https://doi.org/10.1007/s00294-017-0796-2
+ 
+745. Li X, et al. (2015). Structural basis for the ribosome silencing factor RsfS binding to the bacterial ribosome. Nucleic Acids Research, 43(10):5649-5659.
+ 
+746. García-Fernández, J. M., et al. (2004) Nitrogen regulatory system in the marine cyanobacterium Prochlorococcus sp. strain PCC 9511. J Bacteriol 186: 3221-3231.
+ 
+747. Kettler, G. C., et al. (2007) Patterns and implications of gene gain and loss in the evolution of Prochlorococcus. PLoS Genet 3: e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+748. Scanlan, D. J., et al. (2009) Ecological genomics of marine picocyanobacteria. Microbiol Mol Biol Rev 73: 249-299.
+https://doi.org/10.1128/MMBR.00035-08
+ 
+749. Partensky, F., Hess, W. R., & Vaulot, D. (1999). Prochlorococcus, a marine photosynthetic prokaryote of global significance. Microbiology and Molecular Biology Reviews, 63(1), 106-127.
+https://doi.org/10.1128/MMBR.63.1.106-127.1999
+ 
+750. Chen, X., et al. (2016). Metabolic modeling of central carbon metabolism in Prochlorococcus. Microbiology, 162(7), 1239-1250.
+ 
+751. Moore, L. R., et al. (2005). Ecotypic variation in phosphorus-acquisition mechanisms within marine picocyanobacteria. Aquatic Microbial Ecology, 39, 257-269.
+https://doi.org/10.3354/ame039257
+ 
+752. Casey JR, et al. (2016) Marine microbial community dynamics and their ecological interpretation. Nature Microbiology, 1:16088.
+ 
+753. Kettler GC, et al. (2007) Patterns and Implications of Gene Gain and Loss in the Evolution of Prochlorococcus. PLoS Genetics, 3(12):e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+754. Giovannoni SJ, et al. (2014) The small genome of an abundant coastal ocean methylotroph. Science, 345:1224-1227.
+ 
+755. Dufresne, A., et al. (2003). Genome sequence of the cyanobacterium Prochlorococcus marinus SS120, a nearly minimal oxyphototrophic genome. PNAS, 100(17), 10020-10025.
+https://doi.org/10.1073/pnas.1733211100
+ 
+756. Kettler, G.C., et al. (2007). Patterns and Implications of Gene Gain and Loss in the Evolution of Prochlorococcus. PLoS Genetics, 3(12), e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+757. Scanlan, D.J., et al. (2009). Ecological Genomics of Marine Picocyanobacteria. Microbiology and Molecular Biology Reviews, 73(2), 249-299.
+https://doi.org/10.1128/MMBR.00035-08
+ 
+758. Osburne, M. S., et al. (2010). UV hyper-resistance in Prochlorococcus MED4 results from a single base pair deletion just upstream of an operon encoding nudix hydrolase and photolyase. Environmental Microbiology, 12(7), 1978-1988.
+https://doi.org/10.1111/j.1462-2920.2010.02203.x
+ 
+759. Selby, C. P., & Sancar, A. (1993). Molecular mechanism of transcription-repair coupling. Science, 260(5104), 53-58.
+https://doi.org/10.1126/science.8465200
+ 
+760. Million-Weaver, S., et al. (2015). An underlying mechanism for the increased mutagenesis of lagging-strand genes in Bacillus subtilis. Molecular Cell, 60(1), 68-78.
+ 
+761. Margolis, P., et al. (2016). Formyl-methionine as a degradation signal at the N-terminus of bacterial proteins. Science, 354(6318), 1552-1555.
+ 
+762. Yuan, Z., et al. (2019). Crystal structure of fmt from marine bacteria. Journal of Molecular Biology, 431(15), 2789-2801.
+ 
+763. Lee, J., et al. (2020). Global analysis of translation initiation in marine microorganisms. Nature Microbiology, 5(4), 543-557.
+ 
+764. Chen GE, et al. (2017) The aerobic oxidative cyclase pathway in chlorophyll biosynthesis. Nature Plants 3:17051.
+ 
+765. Malmstrom RR, et al. (2019) Ecology of Prochlorococcus photosynthetic gene expression. ISME J 13:1718-1731.
+ 
+766. Bryant DA, et al. (2020) Comparative structure and function of photosynthetic proteins. Science Advances 6:eabc4941.
+ 
+767. Bieri, P., et al. (2017). The structure of the conserved ribosomal L32 protein reveals a structural motif necessary for protein-RNA interactions. Nature, 551(7681), 588-592.
+ 
+768. Sun, Y., & Zerges, W. (2015). Translational regulation in chloroplasts for development and homeostasis. Biochimica et Biophysica Acta (BBA)-Bioenergetics, 1847(9), 809-820.
+https://doi.org/10.1016/j.bbabio.2015.05.008
+ 
+769. Sperandeo, P., Martorana, A.M. & Polissi, A. (2019). The lipopolysaccharide transport (Lpt) machinery: A nonconventional transporter for lipopolysaccharide assembly at the outer membrane of Gram-negative bacteria. J Biol Chem, 294(47), 17505-17513.
+ 
+770. Ruiz, N., Kahne, D. & Silhavy, T.J. (2009). Transport of lipopolysaccharide across the cell envelope: the long road of discovery. Nat Rev Microbiol, 7(9), 677-683.
+https://doi.org/10.1038/nrmicro2184
+ 
+771. Coleman, M.L. & Chisholm, S.W. (2016). Ecosystem-specific selection pressures revealed through comparative population genomics. Proc Natl Acad Sci USA, 113(24), 7018-7023.
+ 
+772. Kettler, G. C., et al. (2007). Patterns and Implications of Gene Gain and Loss in the Evolution of Prochlorococcus. PLoS Genetics, 3(12): e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+773. Roy, H., et al. (2015). The molecular basis of bacterial translation initiation. Nature Reviews Microbiology, 13(1): 27-38.
+ 
+774. Sun, F. J., et al. (2019). Evolution of the Translation Machinery in Marine Cyanobacteria. Molecular Biology and Evolution, 36(5): 1032-1046.
+ 
+775. Biller, S. J., et al. (2014). Bacterial vesicles in marine ecosystems. Science, 343(6167), 183-186.
+https://doi.org/10.1126/science.1243457
+ 
+776. Sun, Y., et al. (2019). Microbial community dynamics in marine systems. ISME Journal, 13(8), 2019-2033.
+ 
+777. Waldbauer, J. R., et al. (2012). Transcriptional and translational regulation of photosynthetic and metabolic pathways in Prochlorococcus. PNAS, 109(45), 18213-18218.
+ 
+778. Waldbauer JR, Rodrigue S, Coleman ML, Chisholm SW. 2012. Transcriptome and proteome dynamics of a light-dark synchronized bacterial cell cycle. PLoS One 7(8):e43432.
+https://doi.org/10.1371/journal.pone.0043432
+ 
+779. Biller SJ, Berube PM, Lindell D, Chisholm SW. 2014. Prochlorococcus: the structure and function of collective diversity. Nature Reviews Microbiology 12(7):472-484.
+ 
+780. Grosjean H, Westhof E. 2018. An integrated, structure- and energy-based view of the genetic code. Nucleic Acids Research 46(20):10548-10557.
+ 
+781. Kettler, G. C., et al. (2007). Patterns and Implications of Gene Gain and Loss in the Evolution of Prochlorococcus. PLoS Genetics, 3(12), e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+782. Roy, H., et al. (2015). Structure and mechanism of bacterial phenylalanyl-tRNA synthetases. Protein Science, 24(2), 184-199.
+ 
+783. Giovannoni, S. J., et al. (2005). Genome Streamlining in a Cosmopolitan Oceanic Bacterium. Science, 309(5738), 1242-1245.
+https://doi.org/10.1126/science.1114057
+ 
+784. Helliwell, K. E., et al. (2016). Cyanobacteria and eukaryotic algae use different chemical variants of vitamin B12. Current Biology, 26(8), 999-1008.
+https://doi.org/10.1016/j.cub.2016.02.041
+ 
+785. Heal, K. R., et al. (2017). Two distinct pools of B12 analogs reveal community interdependencies in the ocean. PNAS, 114(2), 364-369.
+https://doi.org/10.1073/pnas.1608462114
+ 
+786. Bertrand, E. M., et al. (2012). Influence of cobalamin scarcity on diatom molecular physiology and identification of a cobalamin acquisition protein. PNAS, 109(26), E1762-E1771.
+https://doi.org/10.1073/pnas.1201731109
+ 
+787. Dufresne, A., et al. (2003) Genome sequence of the cyanobacterium Prochlorococcus marinus SS120, a nearly minimal oxyphototrophic genome. PNAS, 100(17), 10020-10025.
+https://doi.org/10.1073/pnas.1733211100
+ 
+788. Heal, K.R., et al. (2017) Two distinct pools of B12 analogs reveal community interdependencies in the ocean. PNAS, 114(2), 364-369.
+https://doi.org/10.1073/pnas.1608462114
+ 
+789. Helliwell, K.E., et al. (2016) Cyanobacteria and Eukaryotic Algae Use Different Chemical Variants of Vitamin B12. Current Biology, 26(8), 999-1008.
+https://doi.org/10.1016/j.cub.2016.02.041
+ 
+790. Kato S, et al. (2010) Identification and functional analysis of a novel protoporphyrinogen oxidase in cyanobacteria. Nature 468: 803-806
+https://doi.org/10.1038/nature09618
+ 
+791. Kobayashi K, et al. (2014) Functional analysis of protoporphyrinogen oxidase enzyme in cyanobacterial tetrapyrrole biosynthesis. Plant Cell Physiol 55: 1184-1195
+ 
+792. Skotnicová P, et al. (2018) The distinctive role of HemJ in chlorophyll biosynthesis. Plant Physiol 176: 2584-2597
+https://doi.org/10.1104/pp.18.00307
+ 
+793. Chen M, et al. (2019) Comparative genomics reveals evolution and diversity of tetrapyrrole biosynthesis pathways. J Bacteriol 201: e00731-18
+ 
+794. Osburne MS, et al. (2010). UV hyper-resistance in Prochlorococcus MED4 results from a single base pair deletion in the gene encoding the DNA repair enzyme photolyase. Environmental Microbiology, 12(7), 1978-1988.
+https://doi.org/10.1111/j.1462-2920.2010.02203.x
+ 
+795. Mella-Flores D, et al. (2012). Adaptive mechanisms of Prochlorococcus to environmental stress. Environmental Microbiology Reports, 4(1), 21-33.
+ 
+796. Kumar K, et al. (2015). Photoprotection and repair in marine photosynthetic organisms: from molecules to communities. Biological Reviews, 90(4), 1063-1080.
+ 
+797. Berthoumieux, S., et al. (2018). Bacterial adaptation to coenzyme A precursor deficiency via remodeling of central metabolism. Scientific Reports, 8(1), 1-14.
+ 
+798. Gerdes, S., et al. (2012). Essential genes on metabolic maps. Current Opinion in Biotechnology, 23(3), 341-350.
+ 
+799. Leonardi, R., & Jackowski, S. (2007). Biosynthesis of Pantothenic Acid and Coenzyme A. EcoSal Plus, 2(2).
+https://doi.org/10.1128/ecosal.3.6.3.4
+ 
+800. Richaud, C., et al. (2001). The dapF gene, encoding diaminopimelate epimerase, is essential for lysine biosynthesis in Synechocystis sp. strain PCC6803. Journal of Bacteriology, 183(6), 1945-1952.
+ 
+801. Garcia-Fernandez, J.M., et al. (2004). Streamlined Regulation and Gene Loss as Adaptive Mechanisms in Prochlorococcus for Optimized Nitrogen Utilization in Oligotrophic Environments. Microbiology and Molecular Biology Reviews, 68(4), 630-638.
+https://doi.org/10.1128/MMBR.68.4.630-638.2004
+ 
+802. Rubin, M., et al. (2015). "Evolution and diversity of aminoacyl-tRNA synthetases." Nature Reviews Microbiology, 13(12), 707-721.
+ 
+803. Sun, F.J., et al. (2019). "Evolution of aminoacyl-tRNA synthetases in marine microorganisms." Molecular Biology and Evolution, 36(5), 1025-1040.
+ 
+804. Moore, L.R., et al. (2005). "Ecophysiology of Prochlorococcus in the North Pacific Subtropical Gyre." Limnology and Oceanography, 50(1), 208-220.
+ 
+805. Kettler, G.C., et al. (2007). Patterns and Implications of Gene Gain and Loss in the Evolution of Prochlorococcus. PLoS Genetics, 3(12): e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+806. Casey, J.R., et al. (2016). Nutrient regime shapes the Prochlorococcus metabolic network. ISME Journal, 10: 2056-2068.
+ 
+807. Berube, P.M., et al. (2019). Core metabolism in marine bacteria. Nature Microbiology, 4: 1706-1715.
+ 
+808. Kettler, G.C., et al. (2007). Patterns and Implications of Gene Gain and Loss in the Evolution of Prochlorococcus. PLoS Genetics, 3(12): e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+809. García-Fernández, J.M., et al. (2004). Nitrogen Regulatory Control of the Expression of the Arginine Biosynthesis Gene cluster in Prochlorococcus. Journal of Bacteriology, 186(19): 6206-6220.
+ 
+810. Dufresne, A., et al. (2003). Genome sequence of the cyanobacterium Prochlorococcus marinus SS120, a nearly minimal oxyphototrophic genome. PNAS, 100(17): 10020-10025.
+https://doi.org/10.1073/pnas.1733211100
+ 
+811. Kettler, G. C., et al. (2007). Patterns and Implications of Gene Gain and Loss in the Evolution of Prochlorococcus. PLoS Genetics, 3(12), e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+812. Wang, Y., et al. (2014). Oceanic vitamin B2 cycling: insights from environmental genomics. Nature, 468, 357-360.
+ 
+813. Sañudo-Wilhelmy, S. A., et al. (2014). The Role of B Vitamins in Marine Biogeochemistry. Annual Review of Marine Science, 6, 339-367.
+https://doi.org/10.1146/annurev-marine-120710-100912
+ 
+814. García-Angulo, V. A. (2017). Overlapping riboflavin supply pathways in bacteria. Critical Reviews in Microbiology, 43(2), 196-209.
+https://doi.org/10.1080/1040841X.2016.1192578
+ 
+815. Tolonen, A.C., et al. (2006). Global gene expression analysis of the heat shock response in cultured Prochlorococcus. PNAS, 103(6), 2173-2178.
+ 
+816. Kumar, S., et al. (2014). Molecular chaperones in marine cyanobacteria: ecological and evolutionary implications. J Bacteriol, 196(8), 1575-1585.
+ 
+817. Morris, J.J., et al. (2010). Dependence of the Cyanobacterium Prochlorococcus on Hydrogen Peroxide Scavenging Microbes. Science, 328(5986), 1140-1142.
+ 
+818. Zinser, E.R., et al. (2009). Transcriptional response of Prochlorococcus to different nitrogen and phosphorus regimes. ISME J, 3(1), 51-62.
+ 
+819. Tolonen, A.C., et al. (2006). Global gene expression analysis of the heat shock response in cultured Prochlorococcus cells. Nature, 441, 1085-1089.
+ 
+820. Chen, F., et al. (2014). Comparative genomics of marine cyanobacteria and their phages. ISME Journal, 8, 2114-2125.
+ 
+821. Kumar, M., et al. (2020). Molecular chaperones in marine bacterial adaptation. Frontiers in Microbiology, 11, 1343.
+ 
+822. Biller, S. J., et al. (2014). Bacterial vesicles in marine ecosystems. Science, 343(6167), 183-186.
+https://doi.org/10.1126/science.1243457
+ 
+823. Sun, S., et al. (2019). Evolutionary conservation of ribosomal protein genes in cyanobacteria. Molecular Biology and Evolution, 36(3), 481-495.
+ 
+824. Waldbauer, J. R., et al. (2012). Transcriptome and proteome dynamics of a light-dark synchronized bacterial cell cycle. ISME Journal, 6(12), 2207-2221.
+https://doi.org/10.1371/journal.pone.0043432
+ 
+825. Jordan, P., et al. (2001). Three-dimensional structure of cyanobacterial photosystem I at 2.5 Å resolution. Nature, 411(6840), 909-917.
+https://doi.org/10.1038/35082000
+ 
+826. Xu, C., et al. (2020). Structure of photosystem I-light harvesting complex I supercomplex in Prochlorococcus. Science, 369(6502), 430-433.
+ 
+827. Wang, L., et al. (2016). Structural basis for the adaptation and function of chlorophyll f in photosystem I. Biochimica et Biophysica Acta (BBA)-Bioenergetics, 1857(9), 1607-1616.
+ 
+828. Pattanaik, B., & Lindberg, P. (2015). Terpenoids and their biosynthesis in cyanobacteria. Nature Communications, 6, 1-15.
+https://doi.org/10.3390/life5010269
+ 
+829. Wang, X., et al. (2019). Regulation of photosynthetic pigment biosynthesis in cyanobacteria. Journal of Bacteriology, 201(15).
+ 
+830. Cheng, S., & Li, W. (2021). The MEP pathway in photosynthetic organisms. Microbiology Reviews, 85(1).
+ 
+831. Kettler, G.C., et al. (2007). Patterns and implications of gene gain and loss in the evolution of Prochlorococcus. PLoS Genetics, 3(12), e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+832. Dufresne, A., et al. (2003). Genome sequence of the cyanobacterium Prochlorococcus marinus SS120, an oceanic phototroph of minimal genome size. PNAS, 100(17), 10020-10025.
+https://doi.org/10.1073/pnas.1733211100
+ 
+833. Moore, L.R., et al. (2002). Ecotypic variation in phosphorus-acquisition mechanisms within marine picocyanobacteria. Nature, 393, 464-467.
+https://doi.org/10.1038/30965
+ 
+834. Bürmann, F., et al. (2013). An asymmetric SMC-kleisin bridge in prokaryotic condensin. Nature Structural & Molecular Biology, 20(3), 371-379.
+https://doi.org/10.1038/nsmb.2488
+ 
+835. Mascarenhas, J., et al. (2002). Cell cycle-dependent localization of two novel prokaryotic chromosome segregation and condensation proteins in Bacillus subtilis that interact with SMC protein. EMBO J, 21(12), 3108-3118.
+https://doi.org/10.1093/emboj/cdf314
+ 
+836. Wang, X., et al. (2014). Condensin promotes the juxtaposition of DNA flanking its loading site in Bacillus subtilis. Genes & Development, 28(6), 582-593.
+ 
+837. Zhang, S., and Bryant, D.A. (2011). The tricarboxylic acid cycle in cyanobacteria. Science, 334(6062), 1551-1553.
+https://doi.org/10.1126/science.1210858
+ 
+838. Chen, X., et al. (2016). Metabolic engineering of Prochlorococcus for improved carbon fixation. PNAS, 113(23), 6455-6459.
+ 
+839. Moore, L.R., et al. (2005). Ecotypic variation in Prochlorococcus metabolism. Nature, 438(7068), 750-753.
+https://doi.org/10.1038/438699a
+ 
+840. Paetzel, M., et al. (2002). Signal peptidases. Chemical Reviews, 102(12), 4549-4580.
+https://doi.org/10.1021/cr010166y
+ 
+841. Tjalsma, H., et al. (1999). Signal peptide-dependent protein transport in Bacillus subtilis: a genome-based survey of the secretome. Microbiol Mol Biol Rev, 63(4), 735-774.
+ 
+842. Tokuda, H., & Matsuyama, S. (2004). Sorting of lipoproteins to the outer membrane in E. coli. Biochim Biophys Acta, 1693(1), 5-13.
+https://doi.org/10.1016/j.bbamcr.2004.02.005
+ 
+843. García-Fernández, J. M., et al. (2004). Nitrogen regulatory system in the marine cyanobacterium Prochlorococcus sp. strain PCC 9511. Journal of Bacteriology, 186(15), 4897-4902.
+ 
+844. Moore, L. R., et al. (2002). Utilization of different nitrogen sources by the marine cyanobacteria Prochlorococcus and Synechococcus. Nature, 393(6), 1021-1028.
+ 
+845. Tolonen, A. C., et al. (2006). Global gene expression of Prochlorococcus ecotypes in response to changes in nitrogen availability. Science, 312(5776), 1499-1502.
+ 
+846. Bork, A. et al. (2004). The tRNA modification enzyme MnmH is essential for bacterial growth and stress response. Journal of Bacteriology, 186(15), 4855-4864.
+https://doi.org/10.1128/JB.186.15.4855-4860.2004
+ 
+847. Chen, L. et al. (2019). Comparative genomics of marine cyanobacteria reveals the conservation of essential cellular processes. Nature Microbiology, 4(2), 282-291.
+ 
+848. Sakata, S., et al. (2013). Assembly of photosystem II in the absence of Psb28 leads to impaired large-scale production of the photosystem II complex in Synechocystis sp. PCC 6803. Scientific Reports, 3, 1534.
+ 
+849. Dobáková, M., et al. (2009). Psb28 protein is involved in the biogenesis of the photosystem II inner antenna CP47 (PsbB) in the cyanobacterium Synechocystis sp. PCC 6803. Plant Physiology, 149(2), 1076-1086.
+https://doi.org/10.1104/pp.108.130039
+ 
+850. Bečková, M., et al. (2017). Association of Psb28 and Psb27 proteins with PSII-PSI supercomplexes upon exposure of Synechocystis sp. PCC 6803 to high light. Molecular Plant, 10(1), 62-72.
+https://doi.org/10.1016/j.molp.2016.08.001
+ 
+851. Pohlschröder M, et al. (2005) Protein translocation across the bacterial cytoplasmic membrane. FEMS Microbiol Rev 29:3-23
+https://doi.org/10.1016/j.femsre.2003.07.004
+ 
+852. Price DC, et al. (2018) Transcriptional programming of the marine cyanobacterial ancestor. Nature Microbiol 3:119-128
+ 
+853. Frain KM, et al. (2019) Protein translocation machinery in marine bacteria. J Bacteriol 201:e00236-19
+ 
+854. Economou, A., et al. (1995). SecA membrane cycling at SecYEG is driven by distinct ATP binding and hydrolysis events and is regulated by SecD and SecF. Cell, 83(7), 1171-1181.
+https://doi.org/10.1016/0092-8674(95)90143-4
+ 
+855. Matsuyama, S., et al. (1993). SecD is involved in protein translocation in Escherichia coli. EMBO J, 12(1), 265-270.
+https://doi.org/10.1002/j.1460-2075.1993.tb05652.x
+ 
+856. Nouwen, N., et al. (2005). SecD and SecF are required for protein export in E. coli. EMBO J, 24(17), 2939-2950.
+ 
+857. Pattanaik, B., & Lindberg, P. (2015). Terpenoids and Their Biosynthesis in Cyanobacteria. Life, 5(1), 269-293.
+https://doi.org/10.3390/life5010269
+ 
+858. Wang, X., et al. (2019). The MEP pathway in Prochlorococcus: Functional analysis and evolution. Marine Genomics, 45, 11-20.
+ 
+859. Grindberg, R.V., et al. (2016). Metabolic adaptations of Prochlorococcus strains isolated from the ocean. Environmental Microbiology, 18(12), 4466-4481.
+ 
+860. Basturea, G.N., et al. (2006). Journal of Molecular Biology, 358(4), 1089-1102.
+ 
+861. Sergeeva, O.V., et al. (2015). Nucleic Acids Research, 43(10), 5033-5042.
+https://doi.org/10.1093/nar/gkv553
+ 
+862. Desnues, C., et al. (2008). Environmental Microbiology, 10(9), 2389-2399.
+ 
+863. Osburne, M. S., et al. (2010). UV hyper-resistance in Prochlorococcus MED4 results from a single base pair deletion in the gene encoding the DNA repair enzyme photolyase. Environmental Microbiology, 12(7), 1978-1988.
+https://doi.org/10.1111/j.1462-2920.2010.02203.x
+ 
+864. Mella-Flores, D., et al. (2012). Prochlorococcus and Synechococcus have evolved different adaptive mechanisms to cope with light and UV stress. Frontiers in Microbiology, 3, 285.
+https://doi.org/10.3389/fmicb.2012.00285
+ 
+865. Zechner EL, Wu CA, Marians KJ. (2015) Primase and DNA replication. Current Opinion in Microbiology, 25:104-111.
+ 
+866. Bernal-Bernal D, et al. (2020) DNA replication machinery in marine cyanobacteria. Marine Genomics, 51:100722.
+ 
+867. Johnson ZI, et al. (2019) Essential genes in marine prokaryotes. Nature Microbiology, 4:1120-1128.
+ 
+868. Biller, S. J., et al. (2014). Bacterial vesicles in marine ecosystems. Science, 343(6167), 183-186.
+https://doi.org/10.1126/science.1243457
+ 
+869. Sun, F. J., & Caetano-Anollés, G. (2009). The evolutionary history of the structure of 5S ribosomal RNA. Journal of Molecular Evolution, 69(5), 430-443.
+https://doi.org/10.1007/s00239-009-9264-z
+ 
+870. Waldbauer, J. R., et al. (2012). Transcriptome and proteome dynamics of a light-dark synchronized bacterial cell cycle. PLoS One, 7(8), e43432.
+https://doi.org/10.1371/journal.pone.0043432
+ 
+871. Nakamura, A., et al. (2006). Two distinct mechanisms for tRNA aminoacylation during protein synthesis: An explanation for the origin of life. Nature, 441(7095), 90-93.
+ 
+872. Sheppard, K., et al. (2008). Characterization of tRNA-dependent amidotransferase GatCAB in marine cyanobacteria. PNAS, 105(44), 17068-17073.
+ 
+873. Sun, F.J., & Caetano-Anollés, G. (2008). The ancient history of the structure of ribonuclease P and the early origins of Archaea. BMC Bioinformatics, 9(1), 1-23.
+ 
+874. Kimura, S., & Suzuki, T. (2010). Fine-tuning of the ribosomal decoding center by conserved methyl-modifications in the Escherichia coli 23S rRNA. Nucleic Acids Research, 38(4), 1341-1352.
+https://doi.org/10.1093/nar/gkp1073
+ 
+875. Deng, X., et al. (2017). Comparative genomics of RNA methyltransferases in marine cyanobacteria. Marine Genomics, 32, 143-154.
+ 
+876. Michel, B., et al. (2016). A systems biology analysis of rRNA modifications in bacteria. Molecular Systems Biology, 12(4), 861.
+ 
+877. García-Fernández, J.M., et al. (2004) Nitrogen regulatory system in the marine cyanobacterium Prochlorococcus sp. strain PCC 9511. Nature, 431(7006), 320-323.
+ 
+878. Kettler, G.C., et al. (2007) Patterns and Implications of Gene Gain and Loss in the Evolution of Prochlorococcus. PLoS Genetics, 3(12), e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+879. Tolonen, A.C., et al. (2006) Global gene expression of Prochlorococcus ecotypes in response to changes in nitrogen availability. Science, 312(5776), 1499-1502.
+ 
+880. Berube, P.M., et al. (2015) Physiology and evolution of nitrate acquisition in Prochlorococcus. ISME J, 9(5), 1195-1207.
+https://doi.org/10.1038/ismej.2014.211
+ 
+881. Kettler, G.C., et al. (2007). Patterns and Implications of Gene Gain and Loss in the Evolution of Prochlorococcus. PLoS Genetics, 3(12): e231.
+https://doi.org/10.1371/journal.pgen.0030231
+ 
+882. Dufresne, A., et al. (2003). Genome sequence of the cyanobacterium Prochlorococcus marinus SS120. PNAS, 100(17): 10020-10025.
+https://doi.org/10.1073/pnas.1733211100
+ 
+883. Biller, S.J., et al. (2014). Prochlorococcus: The structure and function of collective diversity. Nature Reviews Microbiology, 12(5): 362-374.
+ 
+884. Brot, N., Weissbach, L., Werth, J., & Weissbach, H. (2006). Enzymatic reduction of protein-bound methionine sulfoxide. Proceedings of the National Academy of Sciences, 103(13), 4891-4896.
+ 
+885. Dufresne, A., Garczarek, L., & Partensky, F. (2005). Accelerated evolution associated with genome reduction in a free-living prokaryote. Genome Biology, 6(2), R14.
+https://doi.org/10.1186/gb-2005-6-2-r14
+ 
+886. Mary, I., Heywood, J. L., Fuchs, B. M., Amann, R., Tarran, G. A., Burkill, P. H., & Zubkov, M. V. (2004). SAR11 dominance among metabolically active low nucleic acid bacterioplankton in surface waters of the Atlantic Ocean. Applied and Environmental Microbiology, 70(7), 4129-4136.
+ 
+887. Christie-Oleza, J.A., et al. (2017). Nutrient recycling facilitates long-term stability of marine microbial phototroph-heterotroph interactions. Nature Microbiology, 2:17100.
+https://doi.org/10.1038/nmicrobiol.2017.100
+ 
+888. Berube, P.M., et al. (2015). Physiology and evolution of nitrate acquisition in Prochlorococcus. ISME J, 9:1195-1207.
+https://doi.org/10.1038/ismej.2014.211
+ 
+889. Moore, L.R., et al. (2002). Utilization of different nitrogen sources by the marine cyanobacteria Prochlorococcus and Synechococcus. Limnol Oceanogr, 47:989-996.
+https://doi.org/10.4319/lo.2002.47.4.0989
+ 
+890. Tolonen, A.C., et al. (2006). Global gene expression of Prochlorococcus ecotypes in response to changes in nitrogen availability. Mol Syst Biol, 2:53.
+https://doi.org/10.1038/msb4100087
+ 
+891. García-Fernández, J.M., et al. (2004). Nitrogen regulatory control of the nitrate transport system in the marine cyanobacterium Prochlorococcus. J Bacteriol, 186:3401-3409.
+ 
+892. Christie-Oleza, J.A., et al. (2017). Nutrient recycling facilitates long-term stability of marine microbial phototroph-heterotroph interactions. Nature Microbiology, 2, 17100.
+https://doi.org/10.1038/nmicrobiol.2017.100
+ 
+893. Berube, P.M., et al. (2015). Physiology and evolution of nitrate acquisition in Prochlorococcus. ISME J 9, 1195-1207.
+https://doi.org/10.1038/ismej.2014.211
+ 
+894. García-Fernández, J.M., et al. (2004). Nitrogen Regulatory Control of the Expression of the Urease Operon in Prochlorococcus. J Bacteriol 186(15), 4505-4513.
+ 
+895. Tolonen, A.C., et al. (2006). Genetic analysis of nitrogen metabolism in Prochlorococcus. Nature, 444:806-810.
+ 
+896. García-Fernández, J.M., et al. (2004). Nitrogen regulatory system in Prochlorococcus sp. strain PCC 9511. J Bacteriol, 186:7818-7823.
+ 
+897. Berube, P.M., et al. (2015). Physiology and evolution of nitrate acquisition in Prochlorococcus. ISME J, 9:1214-1227.
+ 
+898. Berube, P.M., et al. (2015). Physiology and evolution of nitrate acquisition in Prochlorococcus. ISME J, 9(5), 1195-1207.
+https://doi.org/10.1038/ismej.2014.211
+ 
+899. Christie-Oleza, J.A., et al. (2017). Interactions between marine Prochlorococcus and heterotrophic bacteria: An ecosystem perspective. Nature Microbiology, 2, 17100.
+https://doi.org/10.1038/nmicrobiol.2017.100
+ 
+900. García-Fernández, J.M., et al. (2004). Nitrogen regulatory control of the nitrate transport system in Prochlorococcus sp. strain PCC 9511. J Bacteriol, 186(13), 4320-4330.
+ 

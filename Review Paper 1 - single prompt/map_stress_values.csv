@@ -1,72 +1,72 @@
-Stress/Limitation,Stress
-,Unclear
-oxidative stress,oxidative
-light stress,high-light
-temperature stress,temperature
-nitrogen limitation,nitrogen
-osmotic stress,osmotic
-nutrient limitation,nutrient
-nutrient stress,nutrient
-Oxidative stress,oxidative
-nitrogen stress,nitrogen
-general stress,general
-Light stress,high-light
-Temperature stress,temperature
-phosphate limitation,phosphate
-iron limitation,iron
-Oxidative Stress,oxidative
-UV stress,UV
-environmental stress,environmental
-phosphate stress,phosphate
-metal stress,metal 
-thermal stress,temperature
-sulfur limitation,sulfur
-Osmotic stress,osmotic
-"nitrogen limitation, nitrogen stress",nitrogen
-carbon stress,carbon
-"nutrient limitation, nitrogen stress",nitrogen
-cold stress,cold
-under stress,Unclear
-iron stress,iron
-Nutrient limitation,Nutrient
-"nutrient limitation, limitation stress",nutrient
-"nutrient limitation, phosphate stress",phosphate
-phosphorus limitation,phosphorus
-photooxidative stress,photooxidative
-heat stress,heat
-Nitrogen limitation,Nitrogen
-Cold stress,Cold
-Salt stress,Salt
-Metal stress,Metal
-carbon limitation,carbon
-B12 limitation,B12
-processing stress,Unclear
-"phosphate limitation, phosphate stress",phosphate
-Iron limitation,Iron
-General stress,General
-regulon stress,Unclear
-"Nitrogen limitation, limitation stress",nitrogen
-selenium limitation,selenium
-specific stress,Unclear
-Envelope stress,Unclear
-CO2 limitation,CO2
-"B12 limitation, vitamin stress",B12
-pH stress,pH
-Phosphate stress,Phosphate
-"Nitrogen limitation, nitrogen stress",nitrogen
-folding stress,Unclear
-"nutrient limitation, various stress",nutrient
-Phosphorus limitation,Phosphorus
-Temperature Stress,Temperature
-"nutrient limitation, environmental stress",environmental
-"nutrient limitation, environmental stress",nutrient
-arsenic stress,arsenic
-availability stress,metal
-"nitrogen limitation, nutrient stress",nitrogen
-cellular stress,Unclear
-cobalt limitation,cobalt
-membrane stress,Unclear
-copper limitation,copper
-folate limitation,folate
-"iron limitation, under stress",iron
-various stress,Unclear
+Stress/Limitation,Stress,Stress Category
+,Unclear,Unclear
+oxidative stress,Oxidative,Env
+light stress,High-light,Env
+temperature stress,Temperature,Thermal
+nitrogen limitation,Nitrogen,Nutrients
+osmotic stress,Osmotic,Env
+nutrient limitation,Nutrient,Nutrients
+nutrient stress,Nutrient,Nutrients
+Oxidative stress,Oxidative,Env
+nitrogen stress,Nitrogen,Nutrients
+general stress,General,Other
+Light stress,High-light,Env
+Temperature stress,Temperature,Thermal
+phosphate limitation,Phosphate,Nutrients
+iron limitation,Iron,Nutrients
+Oxidative Stress,Oxidative,Env
+UV stress,UV,Env
+environmental stress,Environmental,Env
+phosphate stress,Phosphate,Nutrients
+metal stress,Metal ,Trace Metals
+thermal stress,Temperature,Thermal
+sulfur limitation,Sulfur,Nutrients
+Osmotic stress,Osmotic,Env
+"nitrogen limitation, nitrogen stress",Nitrogen,Nutrients
+carbon stress,Carbon,Nutrients
+"nutrient limitation, nitrogen stress",Nitrogen,Nutrients
+cold stress,Cold,Thermal
+under stress,Unclear,Unclear
+iron stress,Iron,Nutrients
+Nutrient limitation,Nutrient,Nutrients
+"nutrient limitation, limitation stress",Nutrient,Nutrients
+"nutrient limitation, phosphate stress",Phosphate,Nutrients
+phosphorus limitation,Phosphorus,Nutrients
+photooxidative stress,Photooxidative,Env
+heat stress,Heat,Thermal
+Nitrogen limitation,Nitrogen,Nutrients
+Cold stress,Cold,Thermal
+Salt stress,Salt,Env
+Metal stress,Metal,Trace Metals
+carbon limitation,Carbon,Nutrients
+B12 limitation,B12,Vitamin
+processing stress,Unclear,Unclear
+"phosphate limitation, phosphate stress",Phosphate,Nutrients
+Iron limitation,Iron,Nutrients
+General stress,General,Other
+regulon stress,Unclear,Unclear
+"Nitrogen limitation, limitation stress",Nitrogen,Nutrients
+selenium limitation,Selenium,Trace Metals
+specific stress,Unclear,Unclear
+Envelope stress,Unclear,Unclear
+CO2 limitation,CO2,Nutrients
+"B12 limitation, vitamin stress",B12,Vitamin
+pH stress,pH,Env
+Phosphate stress,Phosphate,Nutrients
+"Nitrogen limitation, nitrogen stress",Nitrogen,Nutrients
+folding stress,Unclear,Unclear
+"nutrient limitation, various stress",Nutrient,Nutrients
+Phosphorus limitation,Phosphorus,Nutrients
+Temperature Stress,Temperature,Thermal
+"nutrient limitation, environmental stress",Environmental,Env
+"nutrient limitation, environmental stress",Nutrient,Nutrients
+arsenic stress,Arsenic,Trace Metals
+availability stress,Metal,Trace Metals
+"nitrogen limitation, nutrient stress",Nitrogen,Nutrients
+cellular stress,Unclear,Unclear
+cobalt limitation,Cobalt,Trace Metals
+membrane stress,Unclear,Unclear
+copper limitation,Copper,Trace Metals
+folate limitation,Folate,Vitamin
+"iron limitation, under stress",Iron,Nutrients
+various stress,Unclear,Unclear

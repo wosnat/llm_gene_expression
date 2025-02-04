@@ -61,22 +61,67 @@ The output will be a database containing all genes and pathways in the Prochloro
 - a summary of published research
 - sections on possible roles related to the research questions (nutrient exchange, microbial interaction, stress response)
 
+### Building the Gene database
 Methods we may use: 
-- select LLM models to use (fronti
-- prompt engineering (simple prompt, chain-of-thought, 
-- 
+1. Select LLM models to use (frontier, open source)
+2. Prompt engineering (simple prompt, structured prompt, chain-of-thought, one-shot, multi-shot, series of prompts)
+3. Inject published papers ("manually" add to prompt, tools (web search, crossref verification of references, load paper text), RAG
+4. Agents
+
+### Assessing quality of the gene database
+Quality of the results will be validated by a mixture of automated and manual techniques. 
+1. The resulting database needs to be based on published research, avoiding hallucinations. That is, references should correctly cite relevant published papers (papers should be real and relevant papers should be referenced), the content needs to reflect the actual content of the referenced research.
+2. Results should be in the correct level of details. Highlight known research on Prochlorococcus, cyanobacteria, and alteromonas and so forth. Specifying the specific strains where applicable. Details should be sufficient for analyzing omics data but not overly detailed (for example, no need to specify Km). 
+3. Results should be structured in a way that is amenable for automated processing. For example, broken into sections, labeled, etc. Distinguish results from speculative discussion.
+
+Here is a list of instructions created by Claude. The generated DB should follow them:
+- Follow academic writing conventions and maintain formal scientific tone
+- Cite relevant literature (using [Author, Year] format)
+- Structure content logically with clear section organization
+- Balance technical detail with accessibility for a scientific audience
+- Focus on empirical evidence and current understanding
+- Acknowledge knowledge gaps and areas of uncertainty
+- Use precise scientific terminology while defining specialized terms
+- Avoid speculation beyond what is supported by published research
+
+#### Quality checks:
+1. All references are valid and in the correct format. Check using CROSSREF API.
+2. The content reflects actual findings from the research. (a) Ask the LLM to provide supporting quotes and check that these appear in the cited paper. (b) create a verification prompt that takes the generated database entry and the publication full text and verifies that claims are substantiated.
+3. All relevant references are cited - manually review valid references from all entries and from web search to create a list of references that should be cited - compare LLM references to this target list.
+4. Create a reviewer LLM to verify correct format, tone, and level of details.
+5. manually review entries for select genes. Recruit experts to review a few genes each.
+6. Develop a simple test to check for correct structure. Use sentiment analysis to check the sections are labelled correctly.
+7. Use LLM reviewer to rank the results. either as is or by comparing to different database entries for the same gene.
+
+This quality assessment will be used to assess the progress as more and more advanced techniques are used and will be used to select the gene database to be used for the omics research.
 
 
 
 ### Analyze Observed Expression patterns
+
+
+The second phase of the research includes analysis of omics results.
+We have sequenced transcriptome and proteome of *Prochlorococcus* in coculture with *Alteromonas* while in long-term nitrogen starvation. The goal of this phase it to study the condition of the strains under these stresses. Including: physiological state, stress responses, coculture impacts and possible nutrient exchanges and shifts to alternate N and C sources.
+
+
+Questions and analysis methods:
+
+1. which of the changes in expression pattern is related to the experiment, and what is their physiological interpretation. To answer this question we will create a table of expression patterns in published RNASEQ and proteome studies of *Prochlorococcus* and *Alteromonas* as well as related strains.
+   a. Open: how to build this table? Option 1: based on NCBI bioprojects repository (probably out of scope). Option 2: Download supp info from papers. Requires extraction, processing, mapping to genes of the strains used in the experiment.
+   b. Open: How to compare current experimental results. Option 1: statistical check? Option 2: Network approach. Option 3: Build AI model (probably will not have sufficient data).
+   
+2. What is the conditions of the strains in the experiment? This question will be checked by identifying  upregulated/downregulated genes/proteins and querying the gene DB to assess their potential impact on the research question. 
+   a. Note that we also have additional info such as: GO terms, KOs. And additional analysis methods like FBA and pathway enrichment.
+   b. this stage could be performed by LLM prompt with validation performed manually and by LLM.
+   
+   
+
+
    
 # Previous text to be changed
 
-This is a project of writing a scientific review paper through LLM.
-There are multiple versions, each using a more sophisticated approach.
 
-
-# increasingly sophisticated methods to generate the review
+increasingly sophisticated methods to generate the review
 
 1. By a prompt 
    a. Simple prompt

@@ -170,3 +170,4 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 Review Paper 1 - single prompt/.gradio/certificate.pem
+/Review Paper 1 - single prompt/batch results/perplexity_single_structured_prompt_09022025

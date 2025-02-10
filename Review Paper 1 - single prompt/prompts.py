@@ -172,3 +172,18 @@ Remember to rely solely on published research and factual information. If you do
 
 Please begin your literature review now.
 '''
+
+
+short_prompt_unstructured = '''
+give me an overview of the gene {{GENE_NAME}} ({{GENE_PRODUCT}}) in prochlorococcus med4. 
+Specifically its general function, its role in stress response and its potential role in coculture with heterotrophic bacteria, 
+and in nutrient uptake and exchange with heterotrophic bacteria.
+Remember to rely solely on published research and factual information. If you don't have information on a specific aspect of the gene or topic, clearly state this in the relevant section. End the section with a list of references in standard format, Use citations in the format [Author, Year] throughout your response.
+'''
+
+short_prompt_unstructured_from_copilot = '''
+Provide a detailed overview of the gene {{GENE_NAME}} ({{GENE_PRODUCT}}) in Prochlorococcus MED4. 
+Include its general function, role in stress response, and potential role in coculture with heterotrophic bacteria, as well as nutrient uptake and exchange with heterotrophic bacteria. 
+Ensure all information is based on published research and factual data. Clearly state if information on a specific aspect is unavailable. 
+End the response with a list of references in standard format, and use citations in the format [Author, Year] throughout the response.
+'''
